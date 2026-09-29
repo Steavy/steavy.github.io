@@ -19,11 +19,11 @@ cp /root/opdrachten-in-de-markt/docs/po-scrummaster-kwaliteitscoach.md \
    /root/steavy.github.io/po-scrummaster-kwaliteitscoach.md
 ```
 
-Denk aan de **Jekyll-frontmatter** bovenaan (zodat het minima-theme de pagina rendert):
+Denk aan de **Jekyll-frontmatter** bovenaan (zodat het cayman-theme de pagina rendert):
 
 ```markdown
 ---
-layout: page
+layout: default
 title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 ---
 ```
