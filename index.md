@@ -13,6 +13,12 @@ Stevens profiel: **technical testlead**, **quality coach / kwaliteitscoach**,
 
 - [Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht](/po-scrummaster-kwaliteitscoach) — het wekelijks bijgewerkte overzicht met alle actuele rollen, urgenties en directe links.
 
+## Cerios-Clinic rapporten
+
+- [Overzicht](/cerios-clinic/)
+- [SAST](/cerios-clinic/sast)
+- [DAST](/cerios-clinic/dast)
+
 ## Meer
 
 - [github.com/Steavy/Opdrachten-in-de-markt](https://github.com/Steavy/Opdrachten-in-de-markt) — bronrepo met scans en achtergrond.
