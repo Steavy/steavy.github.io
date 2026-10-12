@@ -45,7 +45,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 10 maanden (+ optie op verlenging) |
 | **Tarief** | Max €115 |
 | **ZZP** | ⚠️ ** Vertage zet `FREELANCERS_EMPLOYEES`** (= ZZP mogelijk); het gesloten Need-kanaal sprak dit tegen ("niet geschikt voor zzp'ers") → met alleen Vertage over is het sterkste signaal nu **ZZP mogelijk**, maar **vraag het expliciet na** |
-| **Deadline** | **08-10-2026, 10:00** ⚠️ BINNEN 2 DAGEN (Vertage 2026-10-08T08:00Z) |
+| **Deadline** | **08-10-2026, 10:00** — ⚠️ **verstreken** (Vertage 2026-10-08T08:00Z) |
 | **Via** | ~~Need Staffing (opdracht **15689**, ref SRQ203775)~~ ❌ gesloten 06-10 · **Vertage (id **393356**, ref HFSZW000179)** ✅ |
 
 ### Kern
@@ -90,7 +90,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | t/m 31-10-2027 (12 maanden), optie op verlenging |
 | **Tarief** | In overleg |
 | **ZZP** | ❌ **Geen ZZP — alleen detachering** |
-| **Deadline** | **12-10-2026, 12:00** ⚠️ BINNEN 7 DAGEN |
+| **Deadline** | **12-10-2026, 12:00** — ⚠️ **verstreken** |
 | **Via** | Harvey Nash (vacature **299320**, ref BBBH123970, gepubliceerd 05-10-2026) |
 
 ### Kern (waarom dit een grensgeval is)
@@ -143,7 +143,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 12 maanden, **optie op verlenging tot max. 30-11-2030** (3 verlengingen) |
 | **Tarief** | **€85 - €100** |
 | **ZZP** | ⚠️ **Niet expliciet vermeld**; de rol loopt via een detachering-constructie ("Werknemers met soortgelijke kennis en expertise in dienst", vrije vervanging toegestaan) → **behandel als deta-vast totdat het tegendeel bevestigd is** |
-| **Deadline** | **07-10-2026, 21:45** ⚠️ BINNEN 7 DAGEN (Need Staffing; Hero.eu toont geen deadline zonder login) |
+| **Deadline** | **07-10-2026, 21:45** — ⚠️ **verstreken** (Need Staffing; Hero.eu toont geen deadline zonder login) |
 | **Screenings** | **VGB Niveau B** vereist · VOGscreenings 11, 12, 13, 37, 41, 71 · **VOG moet aanwezig zijn vóór start** |
 | **Beschikbaarheid** | Min. **3 dagen per week op locatie** (ma, di, do) + meer indien nodig |
 
@@ -188,7 +188,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 3 maanden (+ optie op verlenging) |
 | **Tarief** | €85 - €90 |
 | **ZZP** | ❌ **Nee — deta-vast** |
-| **Deadline** | **09-10-2026, 16:00** (body; kaart toont 14:00) ⚠️ BINNEN 7 DAGEN |
+| **Deadline** | **09-10-2026, 16:00** (body; kaart toont 14:00) — ⚠️ **verstreken** |
 | **Via** | Need Staffing (opdracht **15690**, referentie 2026-GV-0482B) |
 
 ### Kern
@@ -223,7 +223,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Start** | 26-10-2026 |
 | **Duur** | t/m 31-12-2026 |
 | **ZZP** | ✅ **mogelijk — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **08-10-2026, 21:00** (2026-10-08T19:00Z) ⚠️ BINNEN 3 DAGEN |
+| **Deadline** | **08-10-2026, 21:00** (2026-10-08T19:00Z) — ⚠️ **verstreken** |
 | **Via** | Vertage (id **393322**, ref BTICT001474, gepubliceerd 05-10-2026) |
 
 ### Kern
@@ -250,7 +250,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Start** | 02-11-2026 |
 | **Duur** | t/m 31-12-2026 |
 | **ZZP** | ✅ **mogelijk — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **08-10-2026, 21:00** (2026-10-08T19:00Z) ⚠️ BINNEN 3 DAGEN |
+| **Deadline** | **08-10-2026, 21:00** (2026-10-08T19:00Z) — ⚠️ **verstreken** |
 | **Via** | Vertage (id **393351**, ref BTICT001475, gepubliceerd 05-10-2026) |
 
 ### Kern
@@ -275,7 +275,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Start** | 02-11-2026 |
 | **Duur** | t/m 30-04-2027 |
 | **ZZP** | ✅ **mogelijk — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **09-10-2026, 11:17** (2026-10-09T09:17Z) ⚠️ BINNEN 3 DAGEN |
+| **Deadline** | **09-10-2026, 11:17** (2026-10-09T09:17Z) — ⚠️ **verstreken** |
 | **Via** | Vertage (id **393394**, ref HFSSC000448, gepubliceerd 06-10-2026) |
 
 ### Kern
@@ -302,7 +302,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Start** | 19-10-2026 |
 | **Duur** | t/m 19-10-2027 (1 jaar) |
 | **ZZP** | ✅ **mogelijk — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **08-10-2026, 10:00** (2026-10-08T08:00Z) ⚠️ MORGEN |
+| **Deadline** | **08-10-2026, 10:00** (2026-10-08T08:00Z) — ⚠️ **verstreken** |
 | **Via** | Vertage (id **393406**, ref HFWSV000194, gepubliceerd 05-10-2026) |
 
 ### Kern
@@ -310,7 +310,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
   profiel omdat identity/authorisatie raakt aan kwaliteitsborging en ketentesting; **IAM-kant
   van het profiel** (zoals de dubieuze "PO Defensie"-kant in 2.14)
 - ZZP-vriendelijk via Vertage; omschrijving/eisen achter login
-- **Snelst sluitende PO van de scan** (morgen 10:00) — reageren dus vóór die tijd
+- **Was de snelst sluitende PO van de scan** (deadline 08-10, 10:00 — inmiddels **verstreken**)
 
 ### Contact
 - **Link:** https://partner.vertage.com/inbox/all/393406
@@ -332,7 +332,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Start** | 02-11-2026 |
 | **Duur** | t/m 30-07-2027 |
 | **ZZP** | ✅ **mogelijk — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **09-10-2026, 14:00** (2026-10-09T12:00Z) ⚠️ BINNEN 3 DAGEN |
+| **Deadline** | **09-10-2026, 14:00** (2026-10-09T12:00Z) — ⚠️ **verstreken** |
 | **Via** | Vertage (id **393491**, ref BTLOG000895, gepubliceerd 06-10-2026) |
 
 ### Kern
@@ -358,7 +358,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Start** | 02-11-2026 |
 | **Duur** | t/m 29-10-2027 (1 jaar) |
 | **ZZP** | ✅ **mogelijk — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **09-10-2026, 14:00** (2026-10-09T12:00Z) ⚠️ BINNEN 3 DAGEN |
+| **Deadline** | **09-10-2026, 14:00** (2026-10-09T12:00Z) — ⚠️ **verstreken** |
 | **Via** | Vertage (id **393494**, ref BTLOG000896, gepubliceerd 06-10-2026) |
 
 ### Kern
@@ -382,7 +382,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Start** | 02-11-2026 |
 | **Duur** | t/m 14-06-2028 (~20 maanden) |
 | **ZZP** | ✅ **mogelijk — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **08-10-2026, 12:00** (2026-10-08T10:00Z) ⚠️ MORGEN |
+| **Deadline** | **08-10-2026, 12:00** (2026-10-08T10:00Z) — ⚠️ **verstreken** |
 | **Via** | Vertage (id **393495**, ref SAIBRG000010, gepubliceerd 06-10-2026) |
 
 ### Kern
@@ -409,7 +409,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 11 maanden (start 15-10-2026) |
 | **Tarief** | **€85 - €97** all-in, excl. btw |
 | **ZZP** | ❌ **niet toegestaan** |
-| **Deadline** | **13-10-2026, 16:00** (body; kaart toont 14:00) ⚠️ BINNEN 7 DAGEN |
+| **Deadline** | **13-10-2026, 16:00** (body; kaart toont 14:00) — ⚠️ **morgen** |
 | **Via** | Need Staffing (opdracht **15709**, referentie 26100037) |
 
 ### Kern
@@ -459,7 +459,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Start** | 01-11-2026 |
 | **Duur** | t/m 31-10-2027 (1 jaar) |
 | **ZZP** | ✅ **mogelijk — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **09-10-2026, 09:22** (2026-10-09T07:22Z) ⚠️ BINNEN 3 DAGEN |
+| **Deadline** | **09-10-2026, 09:22** (2026-10-09T07:22Z) — ⚠️ **verstreken** |
 | **Via** | Vertage (id **393384**, ref HFSSC000446, gepubliceerd 06-10-2026) |
 
 ### Kern
@@ -486,7 +486,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | t/m 21-04-2027 (6 mnd), **optie op verlenging: ja** |
 | **Tarief** | In overleg |
 | **ZZP** | ✅ **mogelijk** (expliciet: "32 uur per week (ZZP mogelijk)") |
-| **Deadline** | **14-10-2026, 10:00** ⚠️ BINNEN 2 DAGEN |
+| **Deadline** | **14-10-2026, 10:00** — ⚠️ **nog 2 dagen** |
 | **Via** | Harvey Nash (vacature **299394**, ref BBBH124065, gepubliceerd 09-10-2026) |
 
 ### Kern
@@ -592,7 +592,7 @@ Steven's eigen huidige positionering — de brug tussen de testrol (1.6) en de S
 # 5. URGENTIE & DEADLINES
 
 *Stand 12-10-2026. Alleen nog live rollen; gesloten/vervallen rollen staan in sectie 8.
-Sorteer op deadline — **de eerste sluitende rol is de nieuw toegevoegde 3.15 (14-10, 10:00).***
+Sorteer op deadline — **de eerstvolgende sluitende rol is 3.13 (13-10, 16:00), daarna 3.15 (14-10, 10:00).***
 
 | Functie | Organisatie | Portal | Deadline | Kans | Notitie |
 |---------|-------------|--------|----------|------|---------|
@@ -607,9 +607,9 @@ Sorteer op deadline — **de eerste sluitende rol is de nieuw toegevoegde 3.15 (
 | **Technisch PO (393389)** 🔗 | Min. van Defensie (HGI-SO) | Vertage | 09-10, 12:00 — **verstreken, API nog live** | 🟡 med | Tweede kanaal van de Defensie-rol (naast Need 15695) |
 | **Scrum Master ART A&M** 🆕 | Logius | Vertage | 09-10, 14:00 — **verstreken, API nog live** | 🟡 med | 🟢 **ZZP mogelijk**; Den Haag; t/m 07-2027 |
 | **Scrum Master ART T&W** 🆕 | Logius | Vertage | 09-10, 14:00 — **verstreken, API nog live** | 🟡 med | 🟢 **ZZP mogelijk**; Den Haag; 1 jaar; tweelinguitvraag met A&M |
-| **Scrum Master DUO Groningen** 🆕 | DUO (via Need Staffing) | Need Staffing | **13-10, 16:00** ⚠️ BINNEN 2 DAGEN | 🟡 med | ❌ **niet voor ZZP**; €85-97; 11 mnd; **PSM1 verplicht**; gesprekken 15-10 t/m 27-10; live gecontroleerd (HTTP 200) |
 | **QA-adviseur OMS** 🟠 | DJI | Harvey Nash | 12-10, 12:00 — **verstreken, pagina nog live** | 🟠 grensgeval | 16u/wk; **geen ZZP, alleen detachering**; 4 jr QA-ervaring + WO; grensgeval sectie 1.8; HTTP 200 op 12-10 |
-| **Agile Transitie Coach** 🆕 🎯 | NFI | Harvey Nash | **14-10, 10:00** ⚠️ **SLUIT VOLGENDE** | 🟡 med | 🆕 **correctie 12-10** (gemist door de oorspronkelijke scan); kwartiermaker + **Release Train Engineer**; 32u/wk; **ZZP mogelijk**; start 22-10 t/m 21-04-2027 + verlenging; **PSM-I + SAFe 5 Agilist verplicht** |
+| **Scrum Master DUO Groningen** 🆕 | DUO (via Need Staffing) | Need Staffing | **13-10, 16:00** ⚠️ **morgen** | 🟡 med | ❌ **niet voor ZZP**; €85-97; 11 mnd; **PSM1 verplicht**; gesprekken 15-10 t/m 27-10; live gecontroleerd (HTTP 200) |
+| **Agile Transitie Coach** 🆕 🎯 | NFI | Harvey Nash | **14-10, 10:00** ⚠️ **nog 2 dagen** | 🟡 med | 🆕 **correctie 12-10** (gemist door de oorspronkelijke scan); kwartiermaker + **Release Train Engineer**; 32u/wk; **ZZP mogelijk**; start 22-10 t/m 21-04-2027 + verlenging; **PSM-I + SAFe 5 Agilist verplicht** |
 
 *De oorspronkelijke 12-10-scan bevatte **1.7 (Test Coördinator IT), 2.20 (PO Netrekenen) en
 2.21 (PO eIDAS)** als live rollen — alle drie op 12-10 als vervallen bewezen (HTTP 404) en naar
@@ -1263,7 +1263,7 @@ rollen met een toekomstige deadline zijn **3.13 (13-10 16:00)** en **3.15 (14-10
 | **Duur** | 1 jaar |
 | **Tarief** | **€120,50** (schaal 17 — hoogste in de lijst) |
 | **ZZP** | ✅ **toegestaan** — bij ZZP én deta staat het veld op "Nee" (= geen uitsluiting) |
-| **Deadline** | **06-10-2026, 16:00** ⚠️ BINNEN 7 DAGEN |
+| **Deadline** | ~~06-10-2026, 16:00~~ verstreken |
 | **Via** | Harvey Nash (vacature **299281**, referentie BBBH123908, extern 16476) |
 
 ### Kern
@@ -1301,7 +1301,7 @@ rollen met een toekomstige deadline zijn **3.13 (13-10 16:00)** en **3.15 (14-10
 | **Duur** | t/m 01-03-2027, verlenging mogelijk |
 | **Tarief** | €93,99 (schaal 15) |
 | **ZZP** | ❌ **Nee — deta-vast** |
-| **Deadline** | **05-10-2026, 16:00** 🔴 **SLUIT VANDAAG** |
+| **Deadline** | ~~05-10-2026, 16:00~~ verstreken |
 | **Via** | Harvey Nash (vacature **299282**, referentie BBBH123900, extern 16443) |
 
 ### Kern
@@ -1339,7 +1339,7 @@ rollen met een toekomstige deadline zijn **3.13 (13-10 16:00)** en **3.15 (14-10
 | **Duur** | 8 maanden (+ optie op verlenging) |
 | **Tarief** | €95 - €100 |
 | **ZZP** | Niet vermeld in de opdrachttekst — **verifieer** |
-| **Deadline** | **05-10-2026, 16:00** 🔴 **SLUIT VANDAAG** (body) |
+| **Deadline** | ~~05-10-2026, 16:00~~ verstreken (body) |
 | **Via** | Need Staffing (opdracht **15682**, referentie 2026-CAP-0062 V.V.1.) |
 
 ### Kern
@@ -1377,7 +1377,7 @@ rollen met een toekomstige deadline zijn **3.13 (13-10 16:00)** en **3.15 (14-10
 | **Duur** | 2 maanden (+ optie op verlenging) |
 | **Tarief** | **€105 - €110** |
 | **ZZP** | ❌ **Nee — deta-vast** |
-| **Deadline** | **09-10-2026, 16:00** (body; kaart toont 14:00) ⚠️ BINNEN 7 DAGEN |
+| **Deadline** | ~~09-10-2026, 16:00~~ (body; kaart toont 14:00) verstreken |
 | **Via** | Need Staffing (opdracht **15692**, referentie 2026-BZB-0491) |
 
 ### Kern
@@ -1588,7 +1588,7 @@ rollen met een toekomstige deadline zijn **3.13 (13-10 16:00)** en **3.15 (14-10
 | **Duur** | 2 maanden (+ optie) |
 | **Tarief** | €95 - €100 |
 | **ZZP** | **Nee** — deta-vast, met **intentie tot verambtelijking na 12 maanden** |
-| **Deadline** | **06-10-2026, 16:00** (lijst toont 14:00 — zie notitie) ⚠️ BINNEN 7 DAGEN |
+| **Deadline** | ~~06-10-2026, 16:00~~ (lijst toont 14:00 — zie notitie) verstreken |
 | **Via** | Need Staffing (opdracht 15673, ref 2026-IBS-0490) |
 
 ### Kern
@@ -1694,7 +1694,7 @@ conservatieve keuze.
 | **Start** | 30-09-2026 |
 | **Duur** | t/m 30-10-2026 (1 maand) |
 | **ZZP** | ✅ **mogelijk — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **05-10-2026, 21:00** (2026-10-05T19:00Z) 🔴 **SLUIT VANDAAG** |
+| **Deadline** | ~~05-10-2026, 21:00~~ (2026-10-05T19:00Z) verstreken |
 | **Via** | Vertage (id **393172**, ref BTICT001473, gepubliceerd 30-09-2026) |
 
 ### Kern
