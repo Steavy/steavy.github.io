@@ -39,7 +39,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | t/m 31-12-2026, verlenging mogelijk |
 | **Tarief** | **€93,99** all-in (schaal 15) |
 | **ZZP** | ❌ **Nee — alleen via detacheerder/leverancier of payroll** |
-| **Deadline** | **22-10-2026, 23:59** (HN-lijst-expiratie) · kandidaatvoorstel-deadline op pagina: "20-9 16 uur" (datum vóór publicatie, vermoedelijk drukfout) |
+| **Deadline** | **22-10-2026, 23:59** (HN-lijst-expiratie) · kandidaatvoorstel-deadline op pagina: "20-9 16 uur" (datum vóór publicatie, vermoedelijk drukfout) — ⚠️ **nog 3 dagen** |
 | **Via** | Harvey Nash (ref BBBH123482_1792076376) |
 
 ### Kern
