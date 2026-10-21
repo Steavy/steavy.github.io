@@ -4,7 +4,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 ---
 # Kwaliteitscoach, Product Owner & Scrum Master - Detacheringsoverzicht
 
-*Bijgewerkt: 19 Oktober 2026*
+*Bijgewerkt: 21 Oktober 2026*
 
 ---
 
@@ -23,7 +23,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 
 # 1. KWALITEIT & TEST ROLLEN (INCL. TEST LEAD)
 
-*Gezocht op 19-10-2026 op alle 5 portalen: "test-lead", "test lead", "lead test engineer", "testmanager", "testconsultant", "testcoördinator", "kwaliteitscoach", "quality coach", "quality lead", "quality manager", "product owner", "scrum master". **Scan 19-10 (alle portalen live gecheckt):** **nieuw** -> **1.11 Test Lead Engineer - 16318 - TK1** (HN **299501**, Enexis, de Enexis-testlead-opvolger), **1.12 Test Manager** (Hero.eu, DAF), **1.13 Teamleider testmanagement & scrum masters** (Vertage **394146** + Sogeti **394107**, OM, twee kanalen), **1.14 Senior Test Transformation Lead** (Vertage **394217**, Rotterdam), **2.27 Product Owner Integration - Rechtspraak** (Vertage **393964**, sluit vandaag), **2.28 Product Owner (AI Platform)** (Vertage **394054**, StarApple), **2.29 Product Owner Datagedreven Werken en Dataplatform** (Vertage **394085**, Waterschap Vechtstromen), **2.30 Chief Product Owner platformen** (Vertage **394177** + Hero, Defensie, twee kanalen), **3.19 Scrum Master 2026-IBS-0189** (Need Staffing **15758**, Belastingdienst FIN), **3.20 Scrummaster Transitiecoach** (Vertage **394010**, RVO, morgen). **Vervallen/verlopen** -> **1.10 ~~Testcoördinator EPD Noord (Hero.eu)~~ ❌ VERVALLEN (19-10-2026)** (Hero, 404), **2.14 Technisch PO Defensie** (Need 15695, deadline 07-10 verstreken), **2.24 Senior PO RijksRoosterApplicatie** (Hero, 404), **2.25 PO Data en Analyse** (Vertage 393716, deadline 14-10 verstreken), **2.26 PO Rechtspraak** (Vertage 393876 + 393891, deadlines 15/16-10 verstreken), **3.16 SM Defensie DOO** (Need 15735 + Vertage 393838, deadlines verstreken), **3.17 SM Rechtspraak** (Vertage 393875 + 393885, deadlines verstreken), **3.18 Projectondersteuner/Scrummaster** (HN 299450, 404) -- alle acht naar archief. **Geen enkele rol van de scan 14-10 blijft live -- volledige rotatie.** Kanaalobservaties: Harvey Nash **53** vacatures (JSON-API POST offset 0+50), Need Staffing **51** opdrachten (3 pagina's, pagina 4 leeg), Hero.eu **44** unieke slugs, Vertage **106** job-requests (inbox-API na Auth0-login). Circle8 **HTTP 429** (niet bereikbaar, ~09:13-09:25 UTC; 8e scanronde op rij).*
+*Gezocht op 21-10-2026 op alle 5 portalen: "test-lead", "test lead", "lead test engineer", "testmanager", "testconsultant", "testcoördinator", "kwaliteitscoach", "quality coach", "quality lead", "quality manager", "product owner", "scrum master". **Scan 21-10 (alle portalen live gecheckt):** **nieuw** -> **3.21 Scrum Master B — Alliander Business Platforms / ART VMK** (Vertage **394410**, Arnhem Bellevue), **3.22 Scrum Master C — Alliander ART Netdigitalisering** (Vertage **394409**, Arnhem/Duiven), **3.23 Senior Scrum Master — O&P Rijk / Team Talentrijk / Businessunit IT** (Vertage **394367** + Hero.eu `486ad6f5`, Den Haag, **twee kanalen**), **3.24 Senior Agile Coach Data — RVO** (Need Staffing **15770** + Hero.eu `0770682c`, Utrecht, **twee kanalen**), **3.25 Agile Coach Enablement — SSC-ICT** (Vertage **394201**). **Vervallen/verlopen** -> **3.20 Scrummaster Transitiecoach — RVO** (Vertage **394010**: niet meer in de inbox-API van 115 job-requests én deadline 20-10 13:00 verstreken) — naar archief. **Geen nieuwe testlead-, quality-lead- of PO-rollen** — de testlaag blijft 1.11–1.14, de PO-laag 2.28–2.30, de SM-laag groeit van 1 naar 6 rollen. Kanaalobservaties: Harvey Nash **42** vacatures (JSON-API `POST /_sf/api/v1/jobs/search.json`), Need Staffing **43** unieke opdrachten (4 pagina's, pagina 4 leeg), Hero.eu **42** unieke slugs, Vertage **115** job-requests (inbox-API na Auth0-login). Circle8 **niet bereikbaar 21-10** (HTTP 429 via curl/webfetch, HTTP 403 via Playwright, Exa-fetch CRAWL_UNKNOWN_ERROR) — **9e scanronde op rij**; via Exa-websearch geen nieuwe in-scope rollen, wél twee verlopen Circle8-uitvragen (VNR-85681 sluit 13-10, VNR-85615 sluit 12-10). Buiten de scan-scope (niet één van de 5 portalen): **POOQ** plaatst op 17-10 een "Teamleider testmanagement & scrum masters" (Utrecht, start 01-12-2026) die sterk lijkt op 1.13 → mogelijk derde kanaal, niet in de lijst opgenomen.*
 
 **Scope (sinds 24-09-2026): technical testlead, quality/kwaliteitscoach, product owner én scrum master zoeken. Testanalist-, test engineer- en Java tester-rollen zijn uit de lijst verwijderd.**
 
@@ -39,7 +39,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | t/m 31-12-2026, verlenging mogelijk |
 | **Tarief** | **€93,99** all-in (schaal 15) |
 | **ZZP** | ❌ **Nee — alleen via detacheerder/leverancier of payroll** |
-| **Deadline** | **22-10-2026, 23:59** (HN-lijst-expiratie) · kandidaatvoorstel-deadline op pagina: "20-9 16 uur" (datum vóór publicatie, vermoedelijk drukfout) — ⚠️ **nog 3 dagen** |
+| **Deadline** | **22-10-2026, 23:59** (HN-lijst-expiratie) · kandidaatvoorstel-deadline op pagina: "20-9 16 uur" (datum vóór publicatie, vermoedelijk drukfout) — ⚠️ **morgen** |
 | **Via** | Harvey Nash (ref BBBH123482_1792076376) |
 
 ### Kern
@@ -90,7 +90,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 12 maanden |
 | **Tarief** | In overleg |
 | **ZZP** | ⚠️ **Kanaalafhankelijk:** kanaal 1 (OM direct, 394146) = ❌ niet voor ZZP (`EMPLOYEES_ONLY`); kanaal 2 (Sogeti, 394107) = 🟢 ZZP via detacheerder/payroll (`FREELANCERS_EMPLOYEES`, max €95/u) |
-| **Deadline** | **22-10-2026, 12:00** (2026-10-22T10:00Z, Sogeti-kanaal 394107) · **23-10-2026, 12:00** (2026-10-23T10:00Z, hoofdkanaal 394146) — ⚠️ **nog 3 dagen** |
+| **Deadline** | **22-10-2026, 12:00** (2026-10-22T10:00Z, Sogeti-kanaal 394107) · **23-10-2026, 12:00** (2026-10-23T10:00Z, hoofdkanaal 394146) — ⚠️ **morgen** |
 | **Via** | Vertage id **394146** (direct OM) + id **394107** (via Sogeti) |
 
 ### Kern
@@ -118,7 +118,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 12 maanden |
 | **Tarief** | In overleg |
 | **ZZP** | ❌ **Niet toegestaan** (`EMPLOYEES_ONLY` — detacheerder/payroll; WAADI + G-rekening) |
-| **Deadline** | **22-10-2026, 12:00** (2026-10-22T10:00Z) — ⚠️ **nog 3 dagen** |
+| **Deadline** | **22-10-2026, 12:00** (2026-10-22T10:00Z) — ⚠️ **morgen** |
 | **Via** | Vertage (id **394217**) |
 
 ### Kern
@@ -147,7 +147,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | t/m 31-12-2027 |
 | **Tarief** | In overleg |
 | **ZZP** | 🟢 **Ja — `FREELANCERS_ONLY`** |
-| **Deadline** | **30-10-2026, 10:00** (2026-10-30T08:00Z) — ⚠️ **nog 11 dagen** |
+| **Deadline** | **30-10-2026, 10:00** (2026-10-30T08:00Z) — ⚠️ **nog 9 dagen** |
 | **Via** | Vertage (id **394054**) |
 
 ### Kern
@@ -173,7 +173,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 12 maanden (t/m 08-11-2027) |
 | **Tarief** | In overleg |
 | **ZZP** | 🟢 **Ja — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **22-10-2026, 10:00** (2026-10-22T08:00Z) — ⚠️ **nog 3 dagen** |
+| **Deadline** | **22-10-2026, 10:00** (2026-10-22T08:00Z) — ⚠️ **morgen** |
 | **Via** | Vertage (id **394085**) |
 
 ### Kern
@@ -199,7 +199,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 12 maanden |
 | **Tarief** | In overleg |
 | **ZZP** | ⚠️ **Niet expliciet vermeld**; de rol loopt via een detachering-constructie → **behandel als deta-vast totdat het tegendeel bevestigd is** |
-| **Deadline** | **23-10-2026, 10:00** (2026-10-23T08:00Z) — ⚠️ **nog 4 dagen** |
+| **Deadline** | **23-10-2026, 10:00** (2026-10-23T08:00Z) — ⚠️ **nog 2 dagen** |
 | **Via** | Vertage (id **394177**) + Hero.eu |
 
 ### Kern
@@ -219,7 +219,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 
 ---
 
-## 3.19 Scrum Master 2026-IBS-0189 (Need Staffing) 🆕
+## 3.19 Scrum Master 2026-IBS-0189 (V.V.1) (Need Staffing) 🆕
 
 | Item | Details |
 |------|---------|
@@ -230,7 +230,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 2 maanden + optie |
 | **Tarief** | **max €89/u** |
 | **ZZP** | ⚠️ **niet expliciet** op pagina — markeer als `⚠️ niet expliciet` / deta-vast-vermoeden (consistent met 2.14-behandeling) |
-| **Deadline** | **22-10-2026, 16:00** (pagina-tekst: "Deadline: donderdag 22 oktober 2026 16:00 uur") — ⚠️ **nog 3 dagen** |
+| **Deadline** | **22-10-2026, 16:00** (pagina-tekst: "Deadline: donderdag 22 oktober 2026 16:00 uur") — ⚠️ **morgen** |
 | **Via** | Need Staffing (opdracht **15758**) |
 
 ### Kern
@@ -244,28 +244,139 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 
 ---
 
-## 3.20 Scrummaster Transitiecoach - RVO (Vertage) 🆕
+## 3.21 Scrum Master B — Alliander Business Platforms / ART VMK (Vertage) 🆕
 
 | Item | Details |
 |------|---------|
-| **Organisatie** | Ministerie van Economische Zaken, PIANOO-programma |
-| **Locatie** | Hybride |
-| **Uren** | 28 uur per week |
-| **Start** | 06-12-2026 |
-| **Duur** | 12 maanden |
-| **Tarief** | **€100** per uur |
-| **ZZP** | 🟢 **Ja — `FREELANCERS_EMPLOYEES`** |
-| **Deadline** | **20-10-2026, 13:00** (2026-10-20T11:00Z) — ⚠️ **morgen** |
-| **Via** | Vertage (id **394010**) |
+| **Organisatie** | Alliander — Business Platforms, ART VMK |
+| **Locatie** | Arnhem (Belevue), hybride — 2 dagen per week op locatie |
+| **Uren** | **20 uur per week** (API + Opdrachtgegevens) — ⚠️ de bodytekst van de uitvraag noemt **32 uur per week** (inconsistente posting) |
+| **Start** | Z.s.m. (zo spoedig mogelijk) |
+| **Duur** | 1 jaar (geen verlenging aangegeven) |
+| **Tarief** | **max €80–90 per uur** |
+| **ZZP** | ❌ **Niet toegestaan** (`EMPLOYEES_ONLY` — deta/payroll) |
+| **Deadline** | **26-10-2026, 00:00** (2026-10-25T22:00Z — Alliander sluit 25-10 EOD) — ⚠️ **nog 5 dagen** |
+| **Via** | Vertage (id **394410**, ref SAIALL000012) |
 
 ### Kern
-- **Scrummaster / Transitiecoach** voor het PIANOO-programma bij het Ministerie van Economische Zaken
-- 🟢 **ZZP toegestaan** (`FREELANCERS_EMPLOYEES`, tarief €100) — detacheerder of payroll
-- 28u; start 06-12-2026; hybride
-- Omschrijving/eisen verder achter login (Vertage)
+- **Scrum Master** voor ART VMK binnen Business Platforms van Alliander; 20u; hybride met 2 dagen per week op locatie in Arnhem
+- **Eisen:** hbo, SM-certificering (PSM I óf CSM), 6 jaar ervaring, kennis van SAFe/Scrum/DevOps/Kanban, Nederlands B2/C1
+- Publicatie 21-10-2026; review 26-10-2026; **geen verlenging** aangegeven
+- ⚠️ **Let op de uren:** de API/Opdrachtgegevens zeggen 20u per week, de vrije tekst van de uitvraag noemt 32u — navragen bij de recruiter vóór reactie
+- Omschrijving verder achter login (Vertage)
 
 ### Contact
-- **Vertage:** https://partner.vertage.com/inbox/all/394010
+- **Vertage:** https://partner.vertage.com/inbox/all/394410
+- **Portal:** https://partner.vertage.com/inbox/all
+
+---
+
+## 3.22 Scrum Master C — Alliander ART Netdigitalisering (Vertage) 🆕
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Alliander — ART Netdigitalisering |
+| **Locatie** | Arnhem en Duiven, hybride — 2-3 dagen per week op locatie |
+| **Uren** | **2 posities:** één 40 uur per week en één 24-40 uur per week |
+| **Start** | 02-11-2026 |
+| **Duur** | 1 jaar, verlenging mogelijk |
+| **Tarief** | **€80–90 per uur** |
+| **ZZP** | ❌ **Niet toegestaan** (`EMPLOYEES_ONLY` — deta/payroll) |
+| **Deadline** | **23-10-2026, 15:00** (2026-10-23T13:00Z) — ⚠️ **nog 2 dagen** |
+| **Via** | Vertage (id **394409**, ref SAIALL000011) |
+
+### Kern
+- **Scrum Master** voor ART Netdigitalisering van Alliander (Arnhem en Duiven); **twee posities** (40u en 24-40u)
+- **Eisen:** hbo, SM-certificering (PSM I/CSM), SAFe-kennis, 6 jaar ervaring, Nederlands, Jira
+- **Verplichte screening** van 4-6 weken vooraf → reageer ruim vóór 23-10
+- Publicatie 21-10-2026; review 26-10-2026; start 02-11-2026, duur 1 jaar met verlenging
+- Omschrijving verder achter login (Vertage)
+
+### Contact
+- **Vertage:** https://partner.vertage.com/inbox/all/394409
+- **Portal:** https://partner.vertage.com/inbox/all
+
+---
+
+## 3.23 Senior Scrum Master — O&P Rijk / Team Talentrijk / Businessunit IT (Vertage + Hero.eu) 🆕 🔗 TWEEDE KANAAL
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Ministerie van Binnenlandse Zaken en Koninkrijksrelaties — O&P Rijk, Team Talentrijk, Businessunit IT |
+| **Locatie** | Den Haag, hybride (in overleg) |
+| **Uren** | 24 uur per week |
+| **Start** | 01-11-2026 |
+| **Duur** | 6 maanden (t/m 30-04-2027), verlenging mogelijk |
+| **Tarief** | In overleg (Hero-kanaal is een verlenging van een zittende kandidaat) |
+| **ZZP** | ❌ **Niet toegestaan** — de Vertage-bodytekst zegt letterlijk "- ZZP is niet toegestaan" (⚠️ de lijst-API meldt `FREELANCERS_EMPLOYEES`, maar die is onbetrouwbaar; de bodytekst is leidend) |
+| **Deadline** | **22-10-2026, 16:00** (2026-10-22T14:00Z, Vertage 394367) — ⚠️ **morgen** |
+| **Via** | Vertage (id **394367**, ref BTMIN000063) + Hero.eu (slug `486ad6f5`, tweede kanaal) |
+
+### Kern
+- **Senior Scrum Master** voor Team Talentrijk / Businessunit IT van O&P Rijk (Ministerie BZK); Den Haag; 24u; hybride in overleg
+- **Competenties:** Agile/Scrum, PSM/CSM, DevOps · **Eisen:** WO, PSM I óf CSM, 5 jaar SM-ervaring, minimaal 50% op kantoor, rijksoverheidervaring
+- **Twee kanalen:** Vertage (394367, rechtstreeks, deadline 22-10 16:00) + Hero.eu (`senior-scrum-master-486ad6f5`, zonder zichtbare deadline)
+- Publicatie 20-10-2026; review 23-10-2026; start 01-11-2026; duur 6 maanden met verlenging
+- ⚠️ **Grensgeval:** titel bevat "Senior Scrum Master", maar de kern ligt op het coachen/faciliteren van teams → conform precedent 3.4 en 3.15 in de SM-sectie opgenomen
+- Omschrijving verder achter login (Vertage/Hero)
+
+### Contact
+- **Vertage:** https://partner.vertage.com/inbox/all/394367
+- **Hero:** https://hero.eu/interim-opdrachten/senior-scrum-master-486ad6f5
+- **Portal:** https://partner.vertage.com/inbox/all
+
+---
+
+## 3.24 Senior Agile Coach Data — RVO (Need Staffing + Hero.eu) 🆕 🔗 TWEEDE KANAAL
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Rijksdienst voor Ondernemerschap Nederland (RVO) — dataorganisatie |
+| **Locatie** | Utrecht, hybride (50/50) |
+| **Uren** | 32 uur per week |
+| **Start** | 01-11-2026 |
+| **Duur** | 6 maanden, 3x verlenging mogelijk |
+| **Tarief** | **€110–115 per uur** |
+| **ZZP** | ❌ **Niet mogelijk** (Need-kanaal vermeldt expliciet "ZZP is niet mogelijk") |
+| **Deadline** | **23-10-2026, 16:00** (Need-kanaal 15770) — ⚠️ **nog 2 dagen** |
+| **Via** | Need Staffing (opdracht **15770**, ref 202610A122) + Hero.eu (slug `0770682c`, tweede kanaal) |
+
+### Kern
+- **Senior Agile Coach / Transformatiebegeleider** voor de dataorganisatie van RVO; Utrecht; 32u; hybride 50/50; start 01-11-2026; duur 6 maanden met 3x verlenging
+- **Eisen:** WO-opleiding, 7 jaar werkervaring, 3 jaar visual management/OBEYA, 3 jaar Rijksoverheid, **Leading SAFe**
+- **Twee kanalen:** Need Staffing (15770, deadline 23-10 16:00) + Hero.eu (`senior-agile-coach-data-0770682c`, zonder zichtbare deadline)
+- ⚠️ **Grensgeval:** coach-titel (Scaled Agile) in plaats van de klassieke SM-titel → conform precedent 3.4 en 3.15 in de SM-sectie opgenomen
+- Omschrijving verder achter login (Need Staffing/Hero)
+
+### Contact
+- **Need Staffing:** https://needstaffing.nl/Opdrachten/15770
+- **Hero:** https://hero.eu/interim-opdrachten/senior-agile-coach-data-0770682c
+
+---
+
+## 3.25 Agile Coach Enablement — SSC-ICT (Vertage) 🆕
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Shared Service Center ICT (SSC-ICT) |
+| **Locatie** | Hybride |
+| **Uren** | 36 uur per week |
+| **Start** | 16-11-2026 |
+| **Duur** | t/m 30-04-2027, verlenging mogelijk |
+| **Tarief** | In overleg |
+| **ZZP** | ❌ **Niet toegestaan** (`EMPLOYEES_ONLY`; de uitvraag vermeldt bovendien "niet bedoeld voor zzp-ers") |
+| **Deadline** | **23-10-2026, 07:06** (2026-10-23T05:06Z) — ⚠️ **nog 2 dagen** |
+| **Via** | Vertage (id **394201**, ref HFSSC000461) |
+
+### Kern
+- **Agile coach** voor Enablement bij SSC-ICT, in een **SAFe 6.0**-omgeving; 36u; hybride; start 16-11-2026 t/m 30-04-2027
+- **Eisen:** SAFe 6 Agilist + **SAFe RTE-certificering**, 3 jaar Agile-ervaring
+- Publicatie 19-10-2026; review 26-10-2026; verlenging mogelijk
+- ⚠️ **Grensgeval:** coachrol (certificeringsgericht) in plaats van de klassieke SM-titel → conform precedent 3.4 en 3.15 in de SM-sectie opgenomen
+- Omschrijving verder achter login (Vertage)
+
+### Contact
+- **Vertage:** https://partner.vertage.com/inbox/all/394201
 - **Portal:** https://partner.vertage.com/inbox/all
 
 ---
@@ -276,7 +387,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 
 ## 4.1 Quality Transformation Coach / DevOps (eigen profiel)
 
-Steven's eigen huidige positionering — de brug tussen de testrol (1.6) en de Scrum Master-rollen (3.10–3.18):
+Steven's eigen huidige positionering — de brug tussen de testrol (1.11–1.14) en de Scrum Master-rollen (3.19–3.25):
 
 - ✅ ISTQB + TMap gecertificeerd (testmanagement-eis 1.6 Testcoördinator)
 - ✅ 10+ jaar Agile/DevOps
@@ -291,14 +402,22 @@ Steven's eigen huidige positionering — de brug tussen de testrol (1.6) en de S
   + SAFe-omgeving, en **3.18 (HN 299450, ECA) vermeldt geen certificaat**. Certificering blijft dus
   het knelpunt, maar is niet langer een harde, live blocker.
 
-> ⚠️ **Profiel-impact 14-10:** de Vertage-SM-rollen van 07-10 (3.10–3.12, 3.14) en de Vertage-PO-rollen
-> (2.18/2.19/2.22/2.23) bleven vervallen; het Vertage-kanaal groeide op 14-10 juist weer naar
-> **zes in-scope uitvragen** (2.25 PO Rotterdam + **2.26 PO Rechtspraak**, **3.17 SM Rechtspraak**,
-> **3.16 tweede kanaal SM Defensie** 393838, plus de Sogeti-spiegels 393885/393891). Harvey Nash
-> leverde op 14-10 **3.18 Projectondersteuner/Scrummaster (299450)** en bevestigde het verval van
-> 1.8/1.9 (nu 404). Actuele lagen: testlaag = **1.10** (Hero, ZZP) — 1.8/1.9 vervallen; PO-laag =
-> 2.14 (alleen Need) + 2.24 + **2.25 + 2.26**; SM-laag = **3.16 + 3.17 + 3.18** (3.13/3.15 vervallen).
-> Knelpunt blijft de lege testlead-laag — de enige testlead-achtige rollen zijn grensgevallen als 1.10.
+> ⚠️ **Profiel-impact 21-10:** de testlaag is **1.11 (Enexis Test Lead Engineer, HN 299501) — 1.12
+> (Test Manager DAF, Hero) — 1.13 (Teamleider testmanagement & scrum masters, OM, twee kanalen) —
+> 1.14 (Senior Test Transformation Lead, Rotterdam)**: vier rollen, allemaal live, maar **geen
+> enkele nieuwe testlead- of quality-lead-rol deze scan**. De PO-laag is **2.28 (AI Platform) —
+> 2.29 (Datagedreven Werken, 🟢 ZZP) — 2.30 (Chief PO platformen, Defensie)**. De SM-laag groeide
+> van 1 naar **zes** rollen: **3.19** (Belastingdienst FIN, Need) + **3.21** (SM Alliander Business
+> Platforms) + **3.22** (SM Alliander Netdigitalisering, **2 posities**) + **3.23** (Senior Scrum
+> Master O&P Rijk) + **3.24** (Senior Agile Coach Data RVO) + **3.25** (Agile Coach Enablement
+> SSC-ICT). Het **Alliander-cluster (3.21 + 3.22)** is de grootste aanwas: twee Scrum Master-posities
+> met verplichte screening van 4-6 weken → **vroeg reageren**. Het enige **ZZP-vriendelijke
+> kanaal** in de hele scan is Vertage: **2.29** (`FREELANCERS_EMPLOYEES`), **2.28**
+> (`FREELANCERS_ONLY`) en het **Sogeti-kanaal van 1.13** (max €95/u). Knelpunt blijft de
+> **geen-zZP-instrument bij alle nieuwe rollen** — 3.23 t/m 3.25 sluiten ZZP expliciet uit.
+> Circulair: **POOQ** (buiten de 5 scanportalen) plaatste op 17-10 een "Teamleider testmanagement &
+> scrum masters" die vrijwel identiek is aan **1.13** → mogelijk een **derde kanaal** voor diezelfde
+> rol; dat kanaal wordt in de scan niet gevolgd en is dus niet geverifieerd.
 
 ---
 
@@ -326,59 +445,66 @@ Steven's eigen huidige positionering — de brug tussen de testrol (1.6) en de S
 | Quality Manager – Aramis Project JP3346 | Harvey Nash | Alleen in een oude zoekcache; **niet** op de actuele teampagina en geen verifieerbare vacature-URL |
 | Personeelsplanner, Adviseur capaciteitsmanagement, Congestie Officer | Harvey Nash | Geen van de vier rollen |
 | **Transitiecoach (Reclassering Nederland)** - 2 uitvragen, sluit **15-10-2026 10:00** | Vertage (id 393842 + id 393893) | **Nieuw 14-10.** *Transitie*-coach (change/verandercoaching, geen test-/kwaliteitscoach) → buiten de vier rollen. Grensgeval: het is wel een coachrol, maar geen kwaliteitscoach en geen SM/PO |
-| **Projectondersteuner/ Scrummaster (ECA, Arnhem, 28u)** | Harvey Nash (299450) | **WEL toegevoegd als 3.18** — titel draagt een echte scrummaster-component |
+| **Senior Communicatieadviseur / product owner — VGZ** (Arnhem, 32u, z.s.m., 3-6 mnd, 🟢 "zzp'ers mogen reageren") | Harvey Nash (299519) | **Nieuw 21-10.** Kernrol is *communicatieadviseur* (communicatieplan Q1); de PO-taak is **secundair** ("bewaakt als product owner de voortgang van de Q4-doelen") → geen echte PO-rol → buiten de vier rollen |
+| **Sprint team lid - Test Engineer 3**, **Tester - IHP225**, **OT Test Engineer** | Harvey Nash (299512, 299509, 299451) | Buiten scope (test engineer / tester) — **21-10 bevestigd aanwezig in de lijst van 42** |
+| **Technisch Coördinator - IHP-247** | Harvey Nash (299496) | Coördinator-functie, geen testlead/kwaliteitscoach |
+| **Teammanager transitie** | Harvey Nash (124228) | Teammanager-functie, geen scrum master |
+| **Lead Enterprise Architect** | Harvey Nash (124332) | Lead-functie, geen testlead (precedent: Lead Engineer UC, PLV Lead) |
+| **Projectleider Realisatie** | Harvey Nash (299485) + Circle8 (VNR-85795, sluit 22-10) | Projectleider, geen van de vier rollen |
+| **Senior Epic Owner** (Stedin Netbeheer, Amersfoort, 40u, sluit **23-10-2026 11:30**) | Vertage (id 394216) | **Nieuw 21-10.** Owner-functie, maar geen Product Owner (precedent: Epic Owner/Onderwijskundige 392703) |
+| **IB Specialist** (Min. van Economische Zaken en Klimaat / DICTU, Assen, 36u, sluit **22-10-2026 21:00**) | Vertage (id 394245) | **Nieuw 21-10.** Specialist-functie, geen PO/SM/testlead |
+| **QA Engineer Airbus** | Vertage (id 393681) | QA-engineer → testrol, geen quality coach/testlead |
+| **Manager IB / Kwaliteit / Privacy** | Vertage (id 394221) | Manager-functie; "kwaliteit" in de titel, maar geen kwaliteitscoach/testlead |
+| **Product Specialist IAM** (3 kanalen) | Need Staffing (15769) + Hero.eu (`bbf3efbe`) + Vertage (id 394263) | **Product *Specialist***, geen Product Owner |
+| **Interim Teammanager ICT** | Hero.eu (`9cb86a2a`) | Teammanager-functie, geen SM/PO/testlead |
+| **Kwartiemaker** (NFI governance + RTE; Den Haag, 32u, 6 mnd, start 22-10-2026) | Circle8 (VNR-85681) | **Nieuw 21-10, maar al verlopen** — deadline **13-10-2026** verstreken → niet als levende rol opgenomen; zelfde NFI-opdracht als de gearchiveerde 3.15 |
+| **QA adviseur OMS** (Den Haag, 16u, 12 mnd, start 01-11-2026) | Circle8 (VNR-85615) | **Nieuw 21-10, maar al verlopen** — deadline **12-10-2026** verstreken; idem type rol als de gearchiveerde 1.8 (ZZP niet mogelijk, wet DBA) |
+| **QA Test Engineer** (Den Haag, 36u, 2 mnd) | Circle8 (VNR-85755) | **Nieuw 21-10, al verlopen** — deadline **19-10-2026** verstreken + buiten scope (test engineer) |
+| **Testautomatiseerder** (Assen, 36u, 6 mnd, start 01-12-2026) | Circle8 (VNR-85820) | Buiten scope (tester) — deadline 21-10-2026, vandaag |
+| **Testautomatiseerder** (Apeldoorn, 36u, 12 mnd) | Circle8 (VNR-85756) | Buiten scope (tester) — deadline 19-10-2026 verstreken |
+| **Senior Test Automation Engineer** (Apeldoorn, 36u, 2 mnd) | Circle8 (VNR-85717) | Buiten scope (tester) — deadline 15-10-2026 verstreken |
+| **Coördinator demo's, beproevingen en pilots** (Den Haag, 20u, 12 mnd) | Circle8 (VNR-85700) | Buiten scope (coördinator) — deadline 15-10-2026 verstreken |
 
 ---
 
 
 # 5. URGENTIE & DEADLINES
 
-*Stand 14-10-2026. Alleen nog live rollen; gesloten/vervallen rollen staan in sectie 8.
-Sorteer op deadline — **de eerstvolgende sluitende rol is 2.25 (14-10, 14:00 — vandaag), daarna
-2.26 + 3.17 (15-10, 10:00), 3.16 (16-10, 12:00) en 3.18 (20-10).***
+*Stand 21-10-2026. Alleen nog live rollen; gesloten/vervallen rollen staan in sectie 8.
+Sorteer op deadline — **de eerstvolgende sluitende rol is 2.29 (22-10, 10:00), daarna
+1.13 + 1.14 (22-10, 12:00), 3.19 + 3.23 (22-10, 16:00) en 1.11 (22-10, 23:59).***
 
 | Functie | Organisatie | Portal | Deadline | Kans | Notitie |
 |---------|-------------|--------|----------|------|---------|
-| **Technisch Product Owner** | Min. van Defensie (HGI-SO) | Need Staffing (alleen) | 07-10, 21:45 — **verstreken, pagina nog live** | 🟡 med | Vertage-kanaal (393389) 403 + Hero-kanaal (778f22cf) 404 → **alleen Need 15695**; €85-100; VGB B + VOG; 3 dagen/wk op locatie |
-| **PO Data en Analyse** | Gemeente Rotterdam | Vertage (393716) | **14-10, 14:00** ⚠️ **vandaag** | 🟡 med | ❌ **niet voor ZZP** (`EMPLOYEES_ONLY`); 36u (min. 32); €90-105; start 02-11-2026 t/m 01-11-2027 + verlenging; ref SAISTA000896 |
-| **PO Rechtspraak** 🆕 | Rechtspraak | Vertage (393876 + Sogeti 393891) | **15-10, 10:00** ⚠️ **morgen** | 🟡 med | ❌ **niet voor ZZP**; €115/u (direct) · max €95 (Sogeti); 36u; hybride; start 30-10-2026 t/m 31-12-2027; dubbele uitvraag |
-| **Scrum Master Rechtspraak** 🆕 | Rechtspraak | Vertage (393875 + Sogeti 393885) | **15-10, 10:00** ⚠️ **morgen** | 🟡 med | ❌ **niet voor ZZP**; €100/u (direct) · max €83 (Sogeti); 36u; hybride; start 02-11-2026 t/m 30-11-2027; **PSM II + SAFe Agilist** |
-| **Scrum Master Defensie DOO** | Min. van Defensie | Need Staffing (15735) + Vertage (393838) | **16-10, 12:00** ⚠️ **nog 2 dagen** | 🟡 med | ⚠️ **ZZP kanaalafhankelijk** (Vertage 🟢 / Need deta); €90-105; 32u; 25 mnd, start 01-01-2027; **VGB B** + VOG vereist |
-| **Projectondersteuner / Scrummaster** 🆕 | ECA (via Harvey Nash) | Harvey Nash (299450) | ~**20-10** ⚠️ **nog 6 dagen** | 🟡 med | Arnhem; 28u; z.s.m. t/m 31-12-2026 + verlenging; geen certificaat genoemd |
-| **Testcoördinator EPD Noord** | Ziekenhuis (EPD) | Hero.eu | geen deadline | 🟢 hoog | Groningen; 36u; hybride 50/50; **uitsluitend ZZP of (eigen) payroll** |
-| **Senior PO RijksRoosterApplicatie** | UWV | Hero.eu | geen deadline | 🟡 med | Den Haag; 36u; hybride in overleg; recruiter Liam Gibb (06 1524 9208) |
+| **PO Datagedreven Werken en Dataplatform** | Waterschap Vechtstromen | Vertage (394085) | **22-10, 10:00** ⚠️ **morgen** | 🟡 med | 🟢 ZZP (`FREELANCERS_EMPLOYEES`); 36u; Almelo, hybride; start 09-11-2026, duur 12 mnd |
+| **Teamleider testmanagement & scrum masters** | Openbaar Ministerie | Vertage (394146) + Sogeti (394107) | **22-10, 12:00** ⚠️ **morgen** | 🟡 med | Kanaalafhankelijk ZZP: OM ❌ (`EMPLOYEES_ONLY`) / Sogeti 🟢 max €95/u; 36u; hybride; start 01-12-2026 |
+| **Senior Test Transformation Lead** | Gemeente Rotterdam | Vertage (394217) | **22-10, 12:00** ⚠️ **morgen** | 🟡 med | ❌ niet voor ZZP (`EMPLOYEES_ONLY`); 40u; Oracle Fusion; start 02-11-2026 |
+| **Scrum Master 2026-IBS-0189 (V.V.1)** | Belastingdienst FIN | Need Staffing (15758) | **22-10, 16:00** ⚠️ **morgen** | 🟡 med | ⚠️ ZZP niet expliciet → deta-vast-vermoeden; 36u; Apeldoorn; max €89/u; start 02-11-2026 |
+| **Senior Scrum Master** 🆕 | O&P Rijk (Min. BZK) | Vertage (394367) + Hero | **22-10, 16:00** ⚠️ **morgen** | 🟡 med | ❌ ZZP niet toegestaan (bodytekst); 24u; Den Haag; start 01-11-2026, 6 mnd + verlenging |
+| **Test Lead Engineer - 16318 - TK1** | Enexis | Harvey Nash (299501) | **22-10, 23:59** ⚠️ **morgen** | 🟢 hoog | ❌ alleen deta/payroll; 36-40u; Den Bosch + Weert; €93,99 all-in; t/m 31-12-2026 + optie |
+| **Agile Coach Enablement** 🆕 | SSC-ICT | Vertage (394201) | **23-10, 07:06** ⚠️ **nog 2 dagen** | 🟡 med | ❌ niet voor ZZP; 36u; SAFe 6 Agilist + SAFe RTE; start 16-11-2026 t/m 30-04-2027 |
+| **Chief Product Owner platformen** | Min. van Defensie (COMMIT) | Vertage (394177) + Hero | **23-10, 10:00** ⚠️ **nog 2 dagen** | 🟡 med | ⚠️ ZZP niet expliciet → deta-vast-vermoeden; 36u; Utrecht; start 01-12-2026 |
+| **Scrum Master C — ART Netdigitalisering** 🆕 | Alliander | Vertage (394409) | **23-10, 15:00** ⚠️ **nog 2 dagen** | 🟡 med | ❌ niet voor ZZP; **2 posities** (40u en 24-40u); Arnhem/Duiven; **verplichte screening 4-6 weken** → vroeg reageren |
+| **Senior Agile Coach Data** 🆕 | RVO | Need Staffing (15770) + Hero | **23-10, 16:00** ⚠️ **nog 2 dagen** | 🟡 med | ❌ ZZP niet mogelijk; 32u; Utrecht hybride 50/50; €110-115; start 01-11-2026, 6 mnd + 3× verlenging |
+| **Scrum Master B — Business Platforms / ART VMK** 🆕 | Alliander | Vertage (394410) | **26-10, 00:00** ⚠️ **nog 5 dagen** | 🟡 med | ❌ niet voor ZZP; 20u (⚠️ body noemt 32u — navragen); Arnhem Bellevue, 2 dagen/wk op locatie |
+| **Product Owner (AI Platform)** | StarApple | Vertage (394054) | **30-10, 10:00** ⚠️ **nog 9 dagen** | 🟡 med | 🟢 `FREELANCERS_ONLY` — de enige ZZP-vriendelijke PO-rol; 40u; hybride; start 02-11-2026 t/m 31-12-2027 |
+| **Test Manager** | DAF | Hero.eu (65bede40) | geen deadline | 🟢 hoog | Deta-vast; Eindhoven; 36-40u; op locatie; recruiter Yoeri Cuperus (06 2544 6835) |
 
-*Sinds de 12-10-avondherscan zijn op 14-10 **1.8 (QA-adviseur OMS), 1.9 (Testmanagement DJI),
-3.13 (SM DUO Groningen) en 3.15 (Agile Transitie Coach NFI)** vervallen/verlopen: 1.8/1.9 gaven
-HTTP 404 op de HN-detailpagina én staan niet meer in de JSON-lijst van 47; 3.13 (deadline 13-10
-16:00) en 3.15 (deadline 14-10 10:00) zijn op deadline verlopen (zie sectie 8). Daartegenover
-stonden **3 nieuwe rollen**: 2.26 (PO Rechtspraak), 3.17 (SM Rechtspraak) en 3.18
-(Projectondersteuner/Scrummaster ECA); daarnaast verscheen 3.16 via een **tweede kanaal** op
-Vertage (393838, 🟢 ZZP mogelijk). Van de Vertage-rollen van 07-10 blijft niets over, maar het
-Vertage-kanaal bevat nu weer **zes in-scope uitvragen** (2.25, 2.26, 3.17, 3.16-via-Vertage +
-de Sogeti-spiegels 393885/393891). Rollen met een toekomstige deadline: **2.25 (vandaag 14:00),
-2.26 + 3.17 (15-10 10:00), 3.16 (16-10 12:00), 3.18 (20-10)**.*
+*De 9 rollen die op 19-10 nog in de lijst stonden (1.10, 2.14, 2.24, 2.25, 2.26, 2.27, 3.16, 3.17, 3.18) zijn per 21-10 allemaal vervallen of verlopen en staan nu in sectie 8 — de testlaag (1.11–1.14) en PO-laag (2.28–2.30) bleven intact, alleen de SM-laag groeide: van 1 naar 6 rollen (3.19 + 3.21 t/m 3.25). Het **Alliander-cluster (3.21 + 3.22)** is de grootste nieuwe aanwas: twee Scrum Master-posities met verplichte screening (4-6 weken) → vroeg reageren. **ZZP-kansen** in de scan: **2.29** (Vertage, 🟢), **2.28** (Vertage, 🟢 `FREELANCERS_ONLY`), **1.13 via het Sogeti-kanaal** (🟢 max €95/u) — alle overige live rollen zijn deta-vast of niet expliciet.*
 
-### Overzicht wijzigingen t.o.v. 14-10-2026 (scan 19-10)
-- **Nieuw (4 rollen):**
-  1. **PO Rechtspraak** (2.26, Vertage 393876 + Sogeti 393891) — €115/u, 36u, hybride, sluit 15-10 10:00
-  2. **Scrum Master Rechtspraak** (3.17, Vertage 393875 + Sogeti 393885) — €100/u, 36u, hybride, sluit 15-10 10:00
-  3. **Projectondersteuner / Scrummaster** (3.18, HN 299450) — ECA Arnhem, 28u, z.s.m. t/m 31-12-2026
-  4. **SM Defensie DOO — tweede kanaal** (3.16 via Vertage 393838) — 🟢 ZZP mogelijk (kanaalwijziging)
-- **Vervallen/verlopen (4 rollen — live bewezen op 14-10, zie sectie 8):**
-  1. **QA-adviseur OMS** (1.8, HN 299320) — HTTP 404 + niet meer in JSON-lijst van 47
-  2. **Testmanagement DJI** (1.9, HN 299388) — HTTP 404 + niet meer in JSON-lijst van 47
-  3. **Scrum Master DUO Groningen** (3.13, Need 15709) — deadline 13-10 16:00 verstreken
-  4. **Agile Transitie Coach NFI** (3.15, HN 299394) — deadline 14-10 10:00 verstreken
-- **Kanaalwijziging:** **SM Defensie DOO (3.16)** — op 14-10 ook op **Vertage (393838)** gevonden
-  met `FREELANCERS_EMPLOYEES` (🟢 ZZP mogelijk), naast het Need-kanaal (15735, deta-achtig)
-- **Portalen (14-10):** Harvey Nash **47** (JSON-API; was 44); Need Staffing **57** over 3 pagina's
-  (was 48); Hero.eu: **1.10 + 2.24** live; Vertage **102** (was 106; **6 in-scope**);
-  **Circle8: 7e scanronde op rij niet bereikbaar** (HTTP 429)
-- **Profiellaag (14-10):** testlaag = **1.10** (Hero, ZZP) — 1.8/1.9 vervallen; PO-laag =
-  2.14 (alleen Need) + 2.24 + **2.25 + 2.26**; SM-laag = **3.16 + 3.17 + 3.18** (3.13/3.15
-  vervallen). ZZP-kansen: **1.10 (Hero)**, **3.16 via Vertage (393838)**, en de Rechtspraak-/
-  defensie-kanalen met meestal een deta/❌-uitsluitsel
+### Overzicht wijzigingen t.o.v. 19-10-2026 (scan 21-10)
+- **Nieuw (5 rollen):**
+  1. **Scrum Master B — Alliander Business Platforms / ART VMK** (3.21, Vertage **394410**, ref SAIALL000012) — Arnhem Bellevue, 20u (body noemt 32u), hybride 2 dagen/wk op locatie, max €80-90/u, ❌ `EMPLOYEES_ONLY`, sluit **26-10 00:00** (2026-10-25T22:00Z), start z.s.m., duur 1 jaar zonder verlenging
+  2. **Scrum Master C — Alliander ART Netdigitalisering** (3.22, Vertage **394409**, ref SAIALL000011) — Arnhem/Duiven, **2 posities** (40u en 24-40u), 2-3 dagen/wk op locatie, €80-90/u, ❌ `EMPLOYEES_ONLY`, **screening 4-6 weken**, sluit **23-10 15:00**, start 02-11-2026
+  3. **Senior Scrum Master — O&P Rijk / Team Talentrijk / Businessunit IT** (3.23, Vertage **394367** + Hero `486ad6f5`, ref BTMIN000063) — Den Haag, 24u, hybride in overleg, 6 mnd + verlenging, ❌ ZZP niet toegestaan (bodytekst), start 01-11-2026, sluit **22-10 16:00**
+  4. **Senior Agile Coach Data — RVO** (3.24, Need Staffing **15770** + Hero `0770682c`, ref 202610A122) — Utrecht hybride 50/50, 32u, €110-115, 6 mnd + 3× verlenging, ❌ ZZP niet mogelijk, start 01-11-2026, sluit **23-10 16:00**
+  5. **Agile Coach Enablement — SSC-ICT** (3.25, Vertage **394201**, ref HFSSC000461) — 36u, hybride, SAFe 6 Agilist + SAFe RTE, start 16-11-2026 t/m 30-04-2027, ❌ `EMPLOYEES_ONLY`, sluit **23-10 07:06**
+- **Vervallen/verlopen (1 rol — live bewezen op 21-10, zie sectie 8):**
+  1. **Scrummaster Transitiecoach — RVO / PIANOO** (3.20, Vertage **394010**) — **niet meer in de inbox-API van 115 job-requests** én deadline **20-10 13:00** (2026-10-20T11:00Z) verstreken
+- **Kanaalobservaties:** 3.23 staat op **twee** kanalen (Vertage + Hero), 3.24 eveneens (**Need Staffing + Hero**); beide Hero-kanalen tonen geen deadline (deadline komt uit het andere kanaal)
+- **Buiten de scan-scope:** **POOQ** (niet één van de 5 gevolgde portalen) plaatst op 17-10 een "Teamleider testmanagement & scrum masters" (Utrecht, start 01-12-2026) die sterk lijkt op **1.13** → mogelijk derde kanaal, **niet** in de lijst opgenomen
+- **Portalen (21-10):** Harvey Nash **42** vacatures (JSON-API; was 53 op 19-10); Need Staffing **43** unieke opdrachten over 4 pagina's (pagina 4 leeg); Hero.eu **42** unieke slugs; Vertage **115** job-requests (was 106 op 19-10); **Circle8 9e scanronde op rij niet bereikbaar** (HTTP 429 + Vercel Security Checkpoint op zowel `www` als `np`) — via Exa-index wel zichtbaar: 0 nieuwe in-scope rollen, wél 2 verlopen Circle8-uitvragen (VNR-85681, VNR-85615) en 5 buiten-scope testers/projectleiders
+- **Profiellaag (21-10):** testlaag = **1.11–1.14** (1.11 Test Lead Enexis, 1.12 Test Manager DAF, 1.13 Teamleider testmanagement OM, 1.14 Test Transformation Lead Rotterdam) — **geen nieuwe testlead/quality-lead**; PO-laag = **2.28 + 2.29 + 2.30** — **geen nieuwe PO**; SM-laag = **3.19 + 3.21 t/m 3.25** — **vijf nieuw**, waarvan twee Alliander-posities
 
 ---
 
@@ -392,23 +518,22 @@ de Sogeti-spiegels 393885/393891). Rollen met een toekomstige deadline: **2.25 (
 ### Harvey Nash
 - Website: https://www.harveynash.nl/vacatures
 - Verplicht: CV (Nederlands), beschikbaarheid, tarief, eerder bij Enexis?, vakantie
-- **Scan-resultaat 14-10-2026: 47 vacatures (JSON-API `POST /_sf/api/v1/jobs/search.json`, jobs_per_page 200) — 1 nieuwe in-scope rol (3.18), 4 rollen vervallen/verlopen op dit portaal**
-- 🆕 **Nieuw (14-10):**
-  1. **Projectondersteuner / Scrummaster** (3.18, vacature **299450**, ref BBBH124173_1791892822) —
-     ECA, Arnhem, 28u, z.s.m. t/m 31-12-2026 + verlenging, geen expliciete deadline
-     (HN-expiratie ~20-10); geen certificaat genoemd
-- ❌ **Vervallen/verlopen (live bewezen 14-10):**
-  1. **QA-adviseur OMS** (1.8, 299320) — HTTP 404 op de detailpagina + **niet meer in de JSON-lijst van 47**
-  2. **Testmanagement DJI** (1.9, 299388) — HTTP 404 op de detailpagina + **niet meer in de JSON-lijst van 47**
-  3. **Agile Transitie Coach** (3.15, 299394) — deadline **14-10 10:00 verstreken** (deadline-verval; de
-     vacature stond nog in de JSON-lijst maar is inhoudelijk verlopen, zie archief)
-  4. (blijft vervallen t.o.v. 12-10) Test Coördinator IT (1.7, 299317) en PO Netrekenen (2.20, 299337) — 404
-- **Let op de ZZP-velden:** 3.18 vermeldt geen ZZP-uitsluitsel; 1.8/1.9 (nu vervallen) waren "alleen detachering"
-- **Tip (bijgewerkt 14-10):** de vacaturelijst is **client-side rendered** — webfetch/Exa zien alleen de
+- **Scan-resultaat 21-10-2026: 42 vacatures (JSON-API `POST /_sf/api/v1/jobs/search.json`, jobs_per_page 200; was 47 op 14-10) — 0 nieuwe in-scope rollen, 0 vervallen op dit portaal**
+- ✅ **Nog live (21-10 geverifieerd):**
+  1. **Test Lead Engineer - 16318 - TK1** (1.11, vacature **299501**) — Enexis, Den Bosch + Weert, 36-40u,
+     z.s.m. t/m 31-12-2026 + optie; `expires_at` **22-10-2026 23:59:59 UTC**; alleen deta/payroll (€93,99 all-in)
+- 🟡 **Grensgeval (21-10):** **Senior Communicatieadviseur / product owner** (vacature **299519**) —
+  VGZ, Arnhem, 32u, z.s.m., 3-6 mnd, 🟢 "zzp'ers mogen reageren"; kernrol is **communicatieadviseur**,
+  PO-taak secundair → zie sectie 4.2 (buiten scope)
+- ❌ **Buiten scope (21-10 bevestigd in de lijst van 42):** 299512 (Sprint team lid - Test Engineer 3),
+  299509 (Tester - IHP225), 299451 (OT Test Engineer), 299496 (Technisch Coördinator),
+  124228 (Teammanager transitie), 299485 (Projectleider Realisatie), 124332 (Lead Enterprise Architect)
+- **Let op de ZZP-velden:** 1.11 = ❌ alleen deta/payroll; 299519 = 🟢 ZZP mag reageren (maar geen PO-rol)
+- **Tip (bijgewerkt 21-10):** de vacaturelijst is **client-side rendered** — webfetch/Exa zien alleen de
   ruwe HTML en missen titels (dit veroorzaakte de foutieve 12-10-conclusie). **De JSON-API is de
   betrouwbaarste bron (bewezen 14-10):** `POST https://www.harveynash.nl/_sf/api/v1/jobs/search.json`
   met payload `{"job_search":{"query":"","filters":{},"commute_filter":{},"offset":0,"jobs_per_page":200}}`
-  → HTTP 200, **47 items** (top-level kan een dict met `results` zijn, soms een platte lijst; per item:
+  → HTTP 200, **42 items** (top-level kan een dict met `results` zijn, soms een platte lijst; per item:
   `job.title`, `job.url_slug` met numeriek ID, `job.expires_at`). Verifieer elke kandidaat-URL daarna met
   `webfetch` en **gok nooit een slug** (suffixen als `---16514` bestaan, andere niet). playwright-enumeratie
   blijft het vangnet als de API faalt.
@@ -417,22 +542,40 @@ de Sogeti-spiegels 393885/393891). Rollen met een toekomstige deadline: **2.25 (
 - Website: https://www.circle8.nl/opdrachten
 - Verplicht: CV (Nederlands, max 5 A4), motivatie in Word
 - Vermeld eisen expliciet in CV met paginanummers
-- ⚠️ **14-10-2026: Circle8 7e scanronde op rij niet bereikbaar (HTTP 429).** Geen Circle8-wijzigingen
-  deze scan. De drie openstaande Circle8-uitvragen (PO Verambtelijking VNR-85414, SM SZW
-  VNR-85435, PO Team Impuls VNR-85356) zijn **al via de andere kanalen als vervallen
-  vastgesteld** en staan in het archief — er is geen openstaande Circle8-rol die nu verloren gaat
+- ⚠️ **21-10-2026: Circle8 9e scanronde op rij niet rechtstreeks bereikbaar** (HTTP **429** op zowel
+  `www.circle8.nl` als `np.circle8.nl` — "Vercel Security Checkpoint"; Playwright: 403; Exa-fetch:
+  `CRAWL_UNKNOWN_ERROR`). **Via de Exa-index wel zichtbaar:** 0 nieuwe live in-scope rollen, wél
+  **2 verlopen Circle8-uitvragen** (VNR-85681, VNR-85615) + 5 buiten-scope testers/projectleiders
+- 🆕 **Nieuw in de index maar al verlopen (21-10):**
+  1. **Kwartiemaker** (VNR-85681) — NFI governance + RTE; Den Haag, 32u, 6 mnd, start 22-10-2026,
+     **deadline 13-10-2026 verstreken** → niet als levende rol opgenomen; zelfde NFI-opdracht als
+     de gearchiveerde 3.15 → zie sectie 4.2
+  2. **QA adviseur OMS** (VNR-85615) — Den Haag, 16u, 12 mnd, start 01-11-2026,
+     **deadline 12-10-2026 verstreken**; idem type rol als de gearchiveerde 1.8 → zie sectie 4.2
+  3. **QA Test Engineer** (VNR-85755) — Den Haag, 36u, 2 mnd, **deadline 19-10-2026 verstreken**
+     + buiten scope (test engineer) → zie sectie 4.2
+- ❌ **Buiten scope (21-10):** VNR-85820 (Testautomatiseerder Assen, deadline 21-10 — vandaag),
+  VNR-85756 (Testautomatiseerder, 19-10 verstreken), VNR-85717 (Senior Test Automation Engineer,
+  15-10 verstreken), VNR-85700 (Coördinator demo's, 15-10 verstreken), VNR-85795 (Projectleider)
+- **Conclusie Circle8 (21-10):** de drie openstaande Circle8-uitvragen uit eerdere scans (PO
+  Verambtelijking VNR-85414, SM SZW VNR-85435, PO Team Impuls VNR-85356) blijven **al via de andere
+  kanalen als vervallen vastgesteld** → er is geen openstaande Circle8-rol die nu verloren gaat
 
 ### Need Staffing
 - Website: https://needstaffing.nl/Opdrachten
-- **Scan-resultaat 14-10-2026: 57 opdrachten over 3 pagina's (was 48 op 12-10) — 0 nieuwe in-scope rollen, 1 verlopen (15709)**; 15695 en 15735 live geverifieerd (HTTP 200)
-- ❌ **Verlopen (live bewezen 14-10):** **Scrum Master DUO Groningen** (3.13, opdracht **15709**) —
-  deadline **13-10 16:00 verstreken** → naar archief
-- ✅ **Nog live (14-10 geverifieerd, HTTP 200):**
-  1. **Technisch PO Defensie** (2.14, **15695**) — deadline 07-10 21:45 gepasseerd, pagina staat nog live
-  2. **Scrum Master Defensie DOO** (3.16, **15735**) — deadline **18-10 21:45**; op 14-10 bleek dezelfde
-     uitvraag óók op Vertage (393838) te staan met 🟢 ZZP mogelijk (zie 3.16)
+- **Scan-resultaat 21-10-2026: 43 unieke opdrachten over 4 pagina's (pagina 4 leeg; was 57 op 14-10) — 1 nieuwe in-scope rol (15770 → 3.24), 0 vervallen op dit portaal**
+- 🆕 **Nieuw (21-10):**
+  1. **Senior Agile Coach Data / Transformatiebegeleider dataorganisatie** (3.24, opdracht **15770**,
+     ref 202610A122) — RVO, Utrecht, hybride 50/50, 32u, 6 mnd + 3× verlenging, start 01-11-2026,
+     €110-115, **ZZP niet mogelijk**, deadline **23-10-2026 16:00**
+- ✅ **Nog live (21-10 geverifieerd):**
+  1. **Scrum Master 2026-IBS-0189 (V.V.1)** (3.19, opdracht **15758**) — Belastingdienst FIN, Apeldoorn,
+     36u, 2 mnd, max €89, start 02-11-2026, deadline **22-10-2026 16:00**
+- 🟡 **Grensgeval (21-10):** **Product Specialist IAM** (opdracht **15769**) — specialist-functie,
+  geen Product Owner → zie sectie 4.2 (3e kanaal naast Hero `bbf3efbe` en Vertage 394263)
 - Let op: vrijwel alle opdrachten **niet voor ZZP'ers** (deta-vast); op Need Staffing is er
-  **geen enkele bevestigd ZZP-vriendelijke rol** — de enige ZZP-hoop is het Vertage-kanaal van 3.16
+  **geen enkele bevestigd ZZP-vriendelijke rol** — de enige ZZP-hoop in deze scan is het
+  **Vertage-kanaal** (2.28, 2.29 en het Sogeti-kanaal van 1.13)
 - Filters werken alleen in browser (client-side) — zoeken op functietitel + detailpagina;
   **gebruik de zoekterm "test-lead" met koppelteken** (vrije tekst geeft vals-positieven)
 - **Paginatie (geleerd 14-10):** `?page=2` wordt genegeerd — gebruik **`?PageNumber=2&SortOrder=NewestFirst`**
@@ -442,13 +585,20 @@ de Sogeti-spiegels 393885/393891). Rollen met een toekomstige deadline: **2.25 (
 
 ### Hero.eu
 - Website: https://hero.eu/interim-opdrachten
-- **Scan-resultaat 14-10-2026: 1.10 en 2.24 live geverifieerd (HTTP 200); 1.10 op dit portaal geherpositioneerd**
-- 🔄 **Gewijzigd (14-10):** **1.10** (slug `testmanager-epd-noord-fcd62f08`) serveert nu de titel
-  **"Testcoördinator EPD Noord"** (was "Testmanager EPD Noord") — Groningen, 36u, hybride 50/50,
-  **"uitsluitend op ZZP-basis of (eigen) payroll"** (🟢 ZZP); geen deadline
-- ✅ **Nog live (14-10):** **Senior PO RijksRoosterApplicatie** (2.24, slug
-  `senior-product-owner-rijksroosterapplicatie-aff30d1f`) — UWV, Den Haag, 36u, hybride in overleg,
-  geen deadline; recruiter Liam Gibb (06 1524 9208)
+- **Scan-resultaat 21-10-2026: 42 unieke slugs in de lijst (verse fetch, HTTP 200) — 2 nieuwe in-scope rollen via dit portaal (1 als tweede kanaal), 0 vervallen**
+- 🆕 **Nieuw (21-10):**
+  1. **Senior Scrum Master** (3.23, slug `senior-scrum-master-486ad6f5`) — O&P Rijk / Businessunit IT,
+     Den Haag, 24u, hybride in overleg, 6 mnd + verlenging, start 01-11-2026, ❌ ZZP niet toegestaan
+     (bodytekst); **tweede kanaal naast Vertage 394367** — deadline komt uit het Vertage-kanaal (22-10 16:00)
+  2. **Senior Agile Coach Data** (3.24, slug `senior-agile-coach-data-0770682c`) — RVO, Utrecht,
+     hybride 50/50, 32u, €110-115, ❌ ZZP niet mogelijk; **tweede kanaal naast Need Staffing 15770** —
+     deadline komt uit het Need-kanaal (23-10 16:00)
+- ✅ **Nog live (21-10 geverifieerd):**
+  1. **Test Manager** (1.12, slug `test-manager-65bede40`) — DAF, Eindhoven, 36-40u; **geen deadline zichtbaar**
+  2. **Chief Product Owner platformen** (2.30, slug `chief-product-owner-platformen-37e713bb`) — tweede kanaal
+     naast Vertage 394177
+- ❌ **Buiten scope (21-10):** `interim-teammanager-ict-9cb86a2a` (Teammanager),
+  `product-owner-projectleider-iam-bbf3efbe` (Product *Specialist* — 3e kanaal naast Need 15769 + Vertage 394263)
 - ❌ **Vervallen (blijft, 12-10):** PO eIDAS (2.21, `product-owner-eidas-7130724b`) 404;
   Hero-kanaal Technisch PO Defensie (2.14, `technisch-product-owner-778f22cf`) 404
 - Login vereist voor volledige details (en daarmee voor de deadline); pagina's zijn client-side rendered
@@ -456,32 +606,42 @@ de Sogeti-spiegels 393885/393891). Rollen met een toekomstige deadline: **2.25 (
 ### Vertage (voorheen Striive)
 - Website: https://partner.vertage.com/inbox/all (inlog via https://supplier.striive.com/inbox/all)
 - Login vereist (Auth0) — credentials in `secrets/vertage.env` (gitignored)
-- **Scan-resultaat 14-10-2026: 102 opdrachten (was 106 op 12-10) — 6 in-scope uitvragen (was 1)**
-- ✅ **Nog live (14-10):** **PO Data en Analyse** (2.25, id **393716**, ref SAISTA000896, Gemeente
-  Rotterdam, 36u (min. 32), €90-105, start 02-11-2026 t/m 01-11-2027 + verlenging,
-  sluit **14-10 14:00** (2026-10-14T14:00Z), ❌ niet voor ZZP (`EMPLOYEES_ONLY`), hybride)
-- 🆕 **Nieuw (14-10):**
-  1. **PO Rechtspraak** (2.26, id **393876** ref HFREC000490 + Sogeti **393891** ref YFSGT002886) —
-     €115/u (direct) / max €95 (Sogeti), 36u, hybride, start 30-10-2026 t/m 31-12-2027,
-     sluit **16-10 08:32** (direct) / **15-10 08:00** (Sogeti), ❌ `EMPLOYEES_ONLY`
-  2. **SM Rechtspraak** (3.17, id **393875** ref HFREC000489 + Sogeti **393885** ref YFSGT002882) —
-     €100/u (direct) / max €83 (Sogeti), 36u, hybride, start 02-11-2026 t/m 30-11-2027,
-     sluit **16-10 08:23** (direct) / **15-10 08:00** (Sogeti), ❌ `EMPLOYEES_ONLY`; PSM II + SAFe Agilist
-  3. **SM Defensie — tweede kanaal** (3.16, id **393838** ref HFDEF002208) — `FREELANCERS_EMPLOYEES`
-     (🟢 ZZP-listing), 32u, start 01-01-2027 t/m 31-01-2029, sluit **16-10 12:00**
-- ❌ **Buiten scope (grensgeval 14-10):** **Transitiecoach Reclassering** (id **393842** + **393893**),
-  sluit 15-10 10:00 — change coach, geen kwaliteitscoach/SM/PO → zie sectie 4.2
-- **ZZP-kanttekening (14-10):** `typeOfProfessional` in de **list-API is onbetrouwbaar** (toont alles
+- **Scan-resultaat 21-10-2026: 115 job-requests (was 106 op 19-10) — 4 nieuwe in-scope rollen, 1 vervallen (3.20 / 394010)**
+- 🆕 **Nieuw (21-10):**
+  1. **Scrum Master B — Alliander Business Platforms / ART VMK** (3.21, id **394410**, ref SAIALL000012) —
+     Arnhem Bellevue, 20u (⚠️ body noemt 32u), hybride 2 dagen/wk op locatie, max €80-90/u, duur 1 jaar
+     zonder verlenging, start z.s.m., ❌ `EMPLOYEES_ONLY`, sluit **26-10 00:00** (2026-10-25T22:00Z),
+     review 26-10 09:00Z
+  2. **Scrum Master C — Alliander ART Netdigitalisering** (3.22, id **394409**, ref SAIALL000011) —
+     2 posities (40u en 24-40u), Arnhem + Duiven, 2-3 dagen/wk op locatie, €80-90/u, 1 jaar + verlenging,
+     start 02-11-2026, ❌ `EMPLOYEES_ONLY`, **verplichte screening 4-6 weken**, sluit **23-10 15:00**
+     (2026-10-23T13:00Z), review 26-10 08:00Z
+  3. **Senior Scrum Master — O&P Rijk** (3.23, id **394367**, ref BTMIN000063) — Den Haag, 24u,
+     hybride in overleg, 6 mnd + verlenging, start 01-11-2026, ❌ ZZP niet toegestaan (bodytekst),
+     sluit **22-10 16:00** (2026-10-22T14:00Z); **tweede kanaal: Hero `486ad6f5`**
+  4. **Agile Coach Enablement — SSC-ICT** (3.25, id **394201**, ref HFSSC000461) — 36u, hybride,
+     start 16-11-2026 t/m 30-04-2027, verlenging ja, ❌ `EMPLOYEES_ONLY`, SAFe 6 Agilist + SAFe RTE,
+     sluit **23-10 07:06** (2026-10-23T05:06Z), review 26-10
+- ❌ **Vervallen (live bewezen 21-10):** **Scrummaster Transitiecoach** (3.20, id **394010**, RVO/PIANOO) —
+  **niet meer in de inbox-API van 115 job-requests** én deadline **20-10 11:00Z (13:00 NL) verstreken** → archief
+- ✅ **Nog live (21-10 geverifieerd, HTTP 200 op het detail-endpoint):** 394146 (1.13), 394107 (1.13 via
+  Sogeti), 394217 (1.14), 394054 (2.28), 394085 (2.29), 394177 (2.30) — plus de 4 nieuwe hierboven
+- 🟡 **Buiten scope (grensgeval 21-10):** 394216 (Senior Epic Owner, Stedin Netbeheer, sluit 23-10 11:30),
+  394245 (IB Specialist, DICTU, sluit 22-10 21:00), 393681 (QA Engineer Airbus), 394221 (Manager IB/
+  Kwaliteit/Privacy), 394263 (Product Specialist IAM) → zie sectie 4.2
+- **ZZP-kanttekening (21-10):** `typeOfProfessional` in de **list-API is onbetrouwbaar** (toont alles
   als `FREELANCERS_EMPLOYEES`); het **detail-endpoint** is autoritatief. Bevestigd `EMPLOYEES_ONLY`
-  (❌): 393716 (2.25), 393876/393875 (Rechtspraak). Voor 393838 (3.16) is de ZZP-status niet apart
-  op het detail-endpoint geverifieerd — behandel als **mogelijk, kanaalafhankelijk**
+  (❌): 394146/394107 (1.13, kanaalafhankelijk), 394217 (1.14), 394410 (3.21), 394409 (3.22),
+  394201 (3.25) en **394367 (3.23) → ZZP niet toegestaan volgens de bodytekst**, ondanks de
+  `FREELANCERS_EMPLOYEES` in de API. 🟢 bevestigd ZZP-vriendelijk: 394085 (2.29), 394054 (2.28)
 - **Werkwijze:** na inlog de JSON-API aanroepen vanuit de browsercontext (same-origin, cookies automatisch):
   `https://partner.vertage.com/api/v2/job-requests?page=0&size=1000&maxRadius=50&clientNames=&professionalTypes=&remoteAllowed=&locations=&maxHoursPerWeek=40&skills=&sortBy=&sortOrder=DESCENDING`
   → het antwoord is een **top-level array** (geen wrapper-object); filter op `title`; beoordeel altijd de echte functietitel (bv. "Senior Java Tester" is buiten scope)
   Extra velden per opdracht: `closingDateOffer` (deadline, **UTC** → NL = +2u), `state`, `startDate`, `endDate`, `remoteAllowed`, `typeOfProfessional` (`FREELANCERS_EMPLOYEES` = **ZZP mogelijk**), `referenceCode`, `publishedAt`
-  **Detail-check (geleerd 12-10 avond):** `https://partner.vertage.com/api/job-requests/{id}`
-  (zonder v2!) geeft **HTTP 403 voor vervallen/verwijderde uitvragen** en **HTTP 200 voor
-  levende** — snelle reconciliatie per id. De omschrijving lees je alleen in de UI achter login.
+  **Detail-check:** `https://partner.vertage.com/api/job-requests/{id}` (zonder v2!) geeft **HTTP 403 voor
+  vervallen/verwijderde uitvragen** en **HTTP 200 voor levende** — snelle reconciliatie per id.
+  ⚠️ **21-10:** de **`/api/v2/job-requests/{id}`**-route gaf **HTTP 500**; de werkende route is
+  **`/api/job-requests/{id}`**. De omschrijving lees je alleen in de UI achter login.
   Filter op brede titelregex (`test|kwalit|quality|owner|master|coach|lead|product|agile|scrum`) en beoordeel alle treffers handmatig
   Scope-notitie: zoek op **"test-lead" met koppelteken** — "test lead" met spatie matcht vrije tekst en geeft vals-positieven
 - **Login-werkwijze (learned 05-10):** Chrome blokkeert `fetch()` van `auth.vertage.com` naar `127.0.0.1` (Private Network Access: loopback address space), ook mét `Access-Control-Allow-Private-Network`. Ook `require()`/dynamic import werkt niet in de Playwright-MCP-codesandbox. Werkende oplossing: een **localhost-pagina die de credentials same-origin ophaalt en een cross-origin formulier-POST naar `auth.vertage.com/u/login` doet** — formulier-navigatie valt buiten CORS. De credentialwaarden blijven daarbij volledig op de box.
@@ -491,18 +651,33 @@ de Sogeti-spiegels 393885/393891). Rollen met een toekomstige deadline: **2.25 (
 
 # 7. DIRECT LINKS
 
-*Stand 14-10-2026.*
+*Stand 21-10-2026. Alleen de levende rollen staan bovenaan; de vervallen rollen (met bewijs) eronder.*
 
 | Functie | Status | Link |
 |---------|--------|------|
-| **PO Data en Analyse** (Gemeente Rotterdam) ❌ niet voor ZZP | live — sluit **14-10 14:00** | https://partner.vertage.com/inbox/all/393716 |
-| **PO Rechtspraak** 🆕 ❌ niet voor ZZP | live — sluit **15-10 10:00** (Sogeti) / 16-10 08:32 (direct) | https://partner.vertage.com/inbox/all/393876 · https://partner.vertage.com/inbox/all/393891 |
-| **Scrum Master Rechtspraak** 🆕 ❌ niet voor ZZP | live — sluit **15-10 10:00** (Sogeti) / 16-10 08:23 (direct) | https://partner.vertage.com/inbox/all/393875 · https://partner.vertage.com/inbox/all/393885 |
-| **Scrum Master Defensie DOO** (Need + Vertage) 🟢 ZZP mogelijk | live — sluit **16-10 12:00** (Vertage) / 18-10 21:45 (Need) | https://needstaffing.nl/Opdrachten/15735 · https://partner.vertage.com/inbox/all/393838 |
-| **Projectondersteuner / Scrummaster** (ECA) 🆕 | live — HN-expiratie ~20-10 | https://www.harveynash.nl/vacatures/299450-Projectondersteuner-Scrummaster |
-| **Technisch Product Owner** (Defensie) 🔗 NOG ÉÉN KANAAL | live — deadline 07-10 21:45 verstreken; **alleen Need-kanaal** (Vertage 393389 + Hero 778f22cf vervallen) | https://needstaffing.nl/Opdrachten/15695 |
-| **Testcoördinator EPD Noord** 🟢 ZZP | live — geen deadline | https://hero.eu/interim-opdrachten/testmanager-epd-noord-fcd62f08 |
-| **Senior PO RijksRoosterApplicatie** | live — geen deadline | https://hero.eu/interim-opdrachten/senior-product-owner-rijksroosterapplicatie-aff30d1f |
+| **Test Lead Engineer - 16318 - TK1** (Enexis) ❌ alleen deta/payroll | live — sluit **22-10 23:59** | https://www.harveynash.nl/vacatures/299501-Test-Lead-Engineer---16318---TK1 |
+| **Test Manager** (DAF, Eindhoven) ❌ deta-vast | live — geen deadline | https://hero.eu/interim-opdrachten/test-manager-65bede40 |
+| **Teamleider testmanagement & scrum masters** (Openbaar Ministerie) 🔗 twee kanalen | live — sluit **22-10 12:00** (OM) / 23-10 12:00 (Sogeti) | https://partner.vertage.com/inbox/all/394146 · https://partner.vertage.com/inbox/all/394107 |
+| **Senior Test Transformation Lead - Oracle Fusion** (Gemeente Rotterdam) ❌ niet voor ZZP | live — sluit **22-10 12:00** | https://partner.vertage.com/inbox/all/394217 |
+| **PO AI Platform** (StarApple) 🟢 `FREELANCERS_ONLY` | live — sluit **30-10 10:00** | https://partner.vertage.com/inbox/all/394054 |
+| **PO Datagedreven Werken en Dataplatform** (Waterschap Vechtstromen) 🟢 ZZP | live — sluit **22-10 10:00** | https://partner.vertage.com/inbox/all/394085 |
+| **Chief Product Owner platformen** (Min. van Defensie) 🔗 twee kanalen | live — sluit **23-10 10:00** | https://partner.vertage.com/inbox/all/394177 · https://hero.eu/interim-opdrachten/chief-product-owner-platformen-37e713bb |
+| **Scrum Master 2026-IBS-0189 (V.V.1)** (Belastingdienst FIN, Apeldoorn) | live — sluit **22-10 16:00** | https://needstaffing.nl/Opdrachten/15758 |
+| **Scrum Master B — Business Platforms / ART VMK** (Alliander, Arnhem) 🆕 ❌ niet voor ZZP | live — sluit **26-10 00:00** | https://partner.vertage.com/inbox/all/394410 |
+| **Scrum Master C — ART Netdigitalisering** (Alliander, Arnhem/Duiven) 🆕 ❌ niet voor ZZP · screening 4-6 weken | live — sluit **23-10 15:00** | https://partner.vertage.com/inbox/all/394409 |
+| **Senior Scrum Master** (O&P Rijk, Den Haag) 🆕 🔗 twee kanalen ❌ ZZP niet toegestaan | live — sluit **22-10 16:00** | https://partner.vertage.com/inbox/all/394367 · https://hero.eu/interim-opdrachten/senior-scrum-master-486ad6f5 |
+| **Senior Agile Coach Data** (RVO, Utrecht) 🆕 🔗 twee kanalen ❌ ZZP niet mogelijk | live — sluit **23-10 16:00** | https://needstaffing.nl/Opdrachten/15770 · https://hero.eu/interim-opdrachten/senior-agile-coach-data-0770682c |
+| **Agile Coach Enablement** (SSC-ICT) 🆕 ❌ niet voor ZZP | live — sluit **23-10 07:06** | https://partner.vertage.com/inbox/all/394201 |
+| ~~**Scrummaster Transitiecoach - RVO / PIANOO**~~ (Vertage) | ❌ verlopen **21-10** (niet meer in inbox-API van 115 + deadline 20-10 13:00) | ~~https://partner.vertage.com/inbox/all/394010~~ |
+| ~~**Product Owner Integration - Rechtspraak**~~ (Vertage) | ❌ verlopen **19-10** (close 19-10 10:05Z) | ~~https://partner.vertage.com/inbox/all/393964~~ |
+| ~~**Technisch Product Owner** (Defensie)~~ 🔗 NOG ÉÉN KANAAL | ❌ verlopen **19-10** (deadline 07-10 21:45 verstreken) | ~~https://needstaffing.nl/Opdrachten/15695~~ |
+| ~~**Senior PO RijksRoosterApplicatie**~~ (UWV, Hero.eu) | ❌ vervallen **19-10** (HTTP 404) | ~~https://hero.eu/interim-opdrachten/senior-product-owner-rijksroosterapplicatie-aff30d1f~~ |
+| ~~**Testcoördinator EPD Noord**~~ 🟢 ZZP (Hero.eu) | ❌ vervallen **19-10** (HTTP 404) | ~~https://hero.eu/interim-opdrachten/testmanager-epd-noord-fcd62f08~~ |
+| ~~**PO Data en Analyse** (Gemeente Rotterdam)~~ ❌ niet voor ZZP | ❌ verlopen **19-10** (deadline 14-10 14:00) | ~~https://partner.vertage.com/inbox/all/393716~~ |
+| ~~**PO Rechtspraak**~~ ❌ niet voor ZZP | ❌ vervallen **19-10** (deadlines 15/16-10) | ~~https://partner.vertage.com/inbox/all/393876~~ · ~~https://partner.vertage.com/inbox/all/393891~~ |
+| ~~**Scrum Master Rechtspraak**~~ ❌ niet voor ZZP | ❌ vervallen **19-10** (deadlines 15/16-10) | ~~https://partner.vertage.com/inbox/all/393875~~ · ~~https://partner.vertage.com/inbox/all/393885~~ |
+| ~~**Scrum Master Defensie DOO** (Need + Vertage)~~ 🟢 ZZP mogelijk | ❌ verlopen **19-10** (deadlines 16-10/18-10) | ~~https://needstaffing.nl/Opdrachten/15735~~ · ~~https://partner.vertage.com/inbox/all/393838~~ |
+| ~~**Projectondersteuner / Scrummaster** (ECA)~~ | ❌ vervallen **19-10** (HN 299450 404) | ~~https://www.harveynash.nl/vacatures/299450-Projectondersteuner-Scrummaster~~ |
 | ~~**Agile Transitie Coach** (NFI)~~ | ❌ verlopen **14-10** (deadline 14-10 10:00) | ~~https://www.harveynash.nl/vacatures/299394-Agile-Transitie-Coach~~ |
 | ~~**QA-adviseur OMS**~~ | ❌ 404 **14-10** (niet meer in HN-lijst van 47) | ~~https://www.harveynash.nl/vacatures/299320-QA-adviseur-~~ |
 | ~~**Testmanagement DJI**~~ | ❌ 404 **14-10** (niet meer in HN-lijst van 47) | ~~https://www.harveynash.nl/vacatures/299388-Testmanagement~~ |
@@ -549,14 +724,14 @@ de Sogeti-spiegels 393885/393891). Rollen met een toekomstige deadline: **2.25 (
 | ~~PO ISET (Vertage)~~ | ❌ gesloten | ~~https://partner.vertage.com/inbox/all/392738~~ |
 | ~~SM SZW (Circle8)~~ | ❌ uitvraag afgelopen | ~~https://www.circle8.nl/opdracht/scrummaster_VNR-85435~~ |
 
-*\* Circle8 was op 29-09, 30-09, 05-10, 07-10, 12-10 én **14-10-2026** niet bereikbaar (429, 7e scanronde op rij). De drie openstaande Circle8-uitvragen zijn alle drie via de andere kanalen als vervallen vastgesteld en staan daarom in het archief — er is geen openstaande Circle8-rol die deze scan verloren gaat.*
+*\* Circle8 was op 29-09, 30-09, 05-10, 07-10, 12-10, 14-10, 19-10 én **21-10-2026** niet rechtstreeks bereikbaar (HTTP 429 + Vercel Security Checkpoint, 9e scanronde op rij; Playwright 403, Exa-fetch CRAWL_UNKNOWN_ERROR). Via de **Exa-index** was Circle8 op 21-10 wel zichtbaar: **geen nieuwe in-scope rollen**, wél twee verlopen uitvragen (VNR-85681 sluit 13-10, VNR-85615 sluit 12-10) → zie sectie 4.2. De drie oudere openstaande Circle8-uitvragen (PO Verambtelijking VNR-85414, SM SZW VNR-85435, PO Team Impuls VNR-85356) zijn alle drie via de andere kanalen als vervallen vastgesteld en staan daarom in het archief — er is geen openstaande Circle8-rol die deze scan verloren gaat.*
 
 ---
 
 
 # 8. VERLOPEN ROLLEN (ARCHIEF)
 
-*Deadlines gepasseerd/vervallen (28-08 t/m 14-10-2026). Bewaard voor referentie en herplaatsingskansen.*
+*Deadlines gepasseerd/vervallen (28-08 t/m 21-10-2026). Bewaard voor referentie en herplaatsingskansen.*
 
 | Functie | Organisatie | Portal | Deadline | Status |
 |---------|-------------|--------|----------|--------|
@@ -626,6 +801,7 @@ de Sogeti-spiegels 393885/393891). Rollen met een toekomstige deadline: **2.25 (
 | **Scrum Master Defensie DOO** | Min. van Defensie | Need (15735) + Vertage (393838) | 16/18-10-2026 | ❌ **Verlopen 19-10** (deadlines 16-10/18-10 verstreken) |
 | **Scrum Master Rechtspraak** | Rechtspraak | Vertage (393875 + 393885) | 15/16-10-2026 | ❌ **Verlopen 19-10** (deadlines 15/16-10 verstreken) |
 | **Projectondersteuner / Scrummaster** | ECA | Harvey Nash (299450) | ~20-10-2026 | ❌ **Vervallen 19-10** (HN 299450 404 + niet in lijst van 47) |
+| **Scrummaster Transitiecoach - RVO / PIANOO** | RVO | Vertage (394010) | 20-10-2026 13:00 | ❌ **Verlopen 21-10** (niet meer in inbox-API van 115 job-requests én deadline 20-10 11:00Z verstreken) |
 
 *Let op: Enexis plaatst rollen regelmatig opnieuw met nieuwe vacature-ID's (Kwaliteitscoach 298806/298807 → Test Lead Engineer 299148 → Senior Scrum Master 299147/299156 → **herplaatst als 299370 op 09-10** → PO Data Delen 299281 + PO SuccessFactors 299282 → **PO Netrekenen 299337, 07-10**). Check Harvey Nash periodiek op herplaatsingen — per 19-10-2026 is er **wél een opvolger** (HN 299501, blok 1.11); Enexis' test/kwaliteitslaag blijft leeg, maar de PO- én SM-laag worden wel periodiek herbevoorraad (de SM-rol 299370 stond op 12-10 kortstondig opnieuw live). Ook voor DUO geldt: plaatsingen kunnen binnen een dag worden teruggetrokken (393049) — daarom telt de API-status van vandaag, niet de aankondiging van gisteren.*
 
@@ -2101,11 +2277,44 @@ conservatieve keuze.
 | **Duur** | t/m 31-12-2026, verlenging mogelijk |
 | **Tarief** | In overleg |
 | **ZZP** | Onbekend (niet gepubliceerd) |
-| **Deadline** | Geen expliciete "reageren voor" vermeld — HN-expiratie ~**20-10-2026** — ⚠️ **morgen** |
+| **Deadline** | Geen expliciete "reageren voor" vermeld — HN-expiratie ~~20-10-2026~~ verstreken |
 | **Via** | Harvey Nash (vacature **299450**, ref BBBH124173_1791892822) |
 
 ### Contact (inactief)
 - **Link:** https://www.harveynash.nl/vacatures/299450-Projectondersteuner-Scrummaster *(404)*
+
+---
+
+## 3.20 ~~Scrummaster Transitiecoach - RVO / PIANOO (Vertage)~~ ❌ VERLOPEN (21-10-2026)
+
+> **Status: verlopen, live bewezen op 21-10-2026.** Vertage-id `394010` staat **niet meer in de
+> inbox-API van 115 job-requests** (de volledige 115 items van de scan bevatten geen enkele
+> "Scrummaster Transitiecoach"-uitvraag meer) **én** de deadline **20-10-2026 11:00 UTC
+> (13:00 NL)** is verstreken → volgens de deadline-regel verlopen en verplaatst naar archief
+> (sectie 8). Dubbelbewijs: zowel uit de lijst verdwenen als de deadline gepasseerd.
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Rijksdienst voor Ondernemerschap Nederland (RVO) — programma PIANOO |
+| **Locatie** | Utrecht |
+| **Uren** | 32 uur per week |
+| **Werkvorm** | Hybride |
+| **Start** | 03-11-2026 |
+| **Duur** | 12 maanden (t/m 02-11-2027) |
+| **Tarief** | In overleg |
+| **ZZP** | ⚠️ **Niet expliciet vermeld** in het zichtbare deel; behandel als deta-vast totdat het tegendeel bevestigd is |
+| **Deadline** | ~~20-10-2026, 13:00~~ (2026-10-20T11:00Z) verstreken |
+| **Via** | Vertage (id **394010**) |
+
+### Kern (was)
+- **Scrummaster Transitiecoach** voor het RVO-programma **PIANOO** (transitie/verandercoach voor
+  de keten van toeslagen/uitvoering)
+- Grensgeval: titel bevat "Scrummaster" (kernrol dus in scope) + "Transitiecoach" → opgenomen als
+  SM-rol, vergelijkbaar met de gearchiveerde 3.4 (Agile Coach / Scrum Master UvA) en 3.15 (Agile
+  Transitie Coach NFI)
+
+### Contact (inactief)
+- **Vertage:** https://partner.vertage.com/inbox/all/394010 *(niet meer in inbox-API van 115)*
 
 ---
 
