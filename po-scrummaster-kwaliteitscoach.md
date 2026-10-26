@@ -115,7 +115,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | t/m 31-12-2027 |
 | **Tarief** | In overleg |
 | **ZZP** | 🟢 **Ja — `FREELANCERS_ONLY`** |
-| **Deadline** | **30-10-2026, 10:00** (2026-10-30T08:00Z) — ⚠️ **nog 9 dagen** |
+| **Deadline** | **30-10-2026, 10:00** (2026-10-30T08:00Z) — ⚠️ **nog 4 dagen** |
 | **Via** | Vertage (id **394054**) |
 
 ### Kern
@@ -301,7 +301,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 12 maanden + optie op verlenging |
 | **Tarief** | Richttarief senior **tot €107** all-in (incl. reis-/parkeerkosten, excl. btw), schaal 16 |
 | **ZZP** | ❌ **Nee** (Deta-Vast: nee → deta/payroll-constructie) |
-| **Deadline** | **26-10-2026, 12:00** — 🔴 **SLUIT VANDAAG** |
+| **Deadline** | **26-10-2026, 12:00** — ⚠️ **vandaag** |
 | **Via** | Harvey Nash **299539** (ref BBBH123682_1792585116), consultant Stuart Mul |
 
 ### Kern
