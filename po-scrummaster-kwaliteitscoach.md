@@ -4,7 +4,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 ---
 # Kwaliteitscoach, Product Owner & Scrum Master - Detacheringsoverzicht
 
-*Bijgewerkt: 09 November 2026*
+*Bijgewerkt: 11 November 2026*
 
 ---
 
@@ -23,7 +23,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 
 ## 1. KWALITEIT & TEST ROLLEN (INCL. TEST LEAD)
 
-*Gezocht op 09-11-2026 op alle 5 portalen: "test-lead", "test lead", "lead test engineer", "testmanager", "testconsultant", "testcoördinator", "testcoordinator", "kwaliteitscoach", "quality coach", "quality lead", "quality manager", "product owner", "scrum master". **Scan 09-11 (alle portalen live gecheckt, Circle8 via Exa-index, Harvey Nash via Exa, Vertage via Auth0+API):** **nieuw (8)** → **1.19** Senior testmanager/release engineer (Circle8 VNR-86138, Utrecht), **1.20** Testmanager/Test coördinator CIBG (Need 15829, Den Haag, deadline verstreken), **1.21** Interim Test Coordinator Data Platform (Hero, Den Haag), **1.22** Agile Coach RVO (Hero, Assen), **1.23** Test Manager SSAM (Hero, Zwolle), **1.24** Senior testmanager/release engineer (Circle8 VNR-86138, Utrecht — duplicate check), **1.25** Testmanager CIBG (Need 15829, deadline 02-11 verstreken), **1.26** Agile Coach RVO (Hero, Assen). **Vervallen/verlopen (2)** → **1.18** Testmanager IAM Leiden (Need 15855, deadline 05-11 10:00 verstreken), **2.36** PO Data Delen Enexis (HN 299623, deadline 04-11 12:00 verstreken). **Live na deze scan (8 test/kwaliteit + 4 PO + 11 SM = 23):** 1.12, 1.15, 1.16, 1.19, 1.20, 1.21, 1.22, 1.23, 2.38, 2.39, 2.40, 3.27, 3.30, 3.31, 3.32, 3.33, 3.34, 3.35, 3.36, 3.37, 3.38, 3.39, 3.40.*
+*Gezocht op 11-11-2026 op alle 5 portalen: "test-lead", "test lead", "lead test engineer", "testmanager", "testconsultant", "testcoördinator", "testcoordinator", "kwaliteitscoach", "quality coach", "quality lead", "quality manager", "product owner", "scrum master". **Scan 11-11 (alle portalen live gecheckt, Harvey Nash via playwright, Circle8 via Exa-index, Need Staffing via webfetch, Hero.eu via webfetch, Vertage via Auth0+API):** **nieuw (5)** → **1.24** Senior testmanager/release engineer (Circle8 VNR-86138, Utrecht, deadline 09-11), **1.25** Testmanager/Test coördinator CIBG (Need 15829, Den Haag, deadline 02-11 verstreken), **1.26** Interim Test Coordinator Data Platform (Hero, Den Haag), **1.27** Agile Coach RVO (Hero, Assen), **1.28** Test Manager SSAM (Hero, Zwolle). **Vervallen/verlopen (11)** → **1.16** Senior Ketentest Coördinator (Vertage 394539/Need 15782, deadline 28-10 verstreken), **1.17** Testmanager/Test coördinator CIBG (Vertage 394729, deadline 30-10 verstreken), **1.18** Testmanager IAM Leiden (Need 15855, deadline 05-11 verstreken), **1.19** Senior testmanager/release engineer (Circle8 VNR-86138, deadline 09-11 verstreken), **1.20** Testmanager/Test coördinator CIBG (Need 15829, deadline 02-11 verstreken), **2.28** PO AI Platform (Vertage 394054, deadline 30-10 verstreken), **2.32** PO BCM Waterschap Vechtstromen (Vertage 394572, deadline 28-10 verstreken), **2.33** PO AI platform SVB (Vertage 394666, deadline 28-10 verstreken), **2.34** PO Low-code Applicaties Belastingdienst (Vertage 394547/Need 15787, deadline 28-10/29-10 verstreken), **2.35** PO Netcongestie Enexis (HN 299606, deadline 02-11 verstreken), **2.36** PO Data Delen Enexis (HN 299623, deadline 04-11 verstreken). **Live na deze scan (8 test/kwaliteit + 2 PO + 12 SM = 22):** 1.12, 1.15, 1.21, 1.22, 1.23, 1.24, 1.25, 1.26, 1.27, 1.28, 2.38, 2.39, 2.40, 3.27, 3.30, 3.31, 3.32, 3.33, 3.34, 3.35, 3.36, 3.37, 3.38, 3.39, 3.40, 3.41.*
 
 **Scope (sinds 24-09-2026): technical testlead, quality/kwaliteitscoach, product owner én scrum master zoeken. Testanalist-, test engineer- en Java tester-rollen zijn uit de lijst verwijderd.**
 
@@ -169,7 +169,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 6 maanden |
 | **Tarief** | Schaal 11 |
 | **ZZP** | Onbekend (niet in API) |
-| **Deadline** | **09-11-2026, 16:00** — ⚠️ **vandaag** |
+| **Deadline** | **09-11-2026, 16:00** — ⚠️ **verstreken** |
 | **Via** | Circle8 **VNR-86138** |
 
 ### Kern
@@ -446,7 +446,7 @@ Zie **1.20** — deadline **02-11 10:00 verstreken**.
 | **Duur** | 6 maanden |
 | **Tarief** | Schaal 12 |
 | **ZZP** | Onbekend |
-| **Deadline** | **10-11-2026, 16:00** — ⚠️ **morgen** |
+| **Deadline** | **10-11-2026, 16:00** — ⚠️ **verstreken** |
 | **Via** | Circle8 **VNR-86166** |
 
 ### Kern
@@ -491,7 +491,7 @@ Zie **1.20** — deadline **02-11 10:00 verstreken**.
 | **Duur** | Niet gepubliceerd |
 | **Tarief** | Niet gepubliceerd |
 | **ZZP** | Onbekend |
-| **Deadline** | **10-11-2026, 06:47** — ⚠️ **morgen** |
+| **Deadline** | **10-11-2026, 06:47** — ⚠️ **verstreken** |
 | **Via** | Vertage **395303** |
 
 ### Kern
@@ -614,7 +614,7 @@ Zie **1.20** — deadline **02-11 10:00 verstreken**.
 | **Duur** | t/m 31-01-2028 (1 jaar) |
 | **Tarief** | Niet gepubliceerd |
 | **ZZP** | 🟢 **Ja** — `FREELANCERS_EMPLOYEES` (ZZP + doorleen) |
-| **Deadline** | **11-11-2026, 08:00** — ⚠️ **nog 2 dagen** |
+| **Deadline** | **11-11-2026, 08:00** — ⚠️ **verstreken** |
 | **Via** | Vertage **395173** (ref `HFBZK000073`, publicatie 02-11-2026) |
 
 ### Kern
@@ -638,7 +638,7 @@ Zie **1.20** — deadline **02-11 10:00 verstreken**.
 | **Duur** | 12 maanden |
 | **Tarief** | Schaal 11 |
 | **ZZP** | Onbekend (niet gepubliceerd) |
-| **Deadline** | **12-11-2026, 16:00** — ⚠️ **nog 3 dagen** |
+| **Deadline** | **12-11-2026, 16:00** — ⚠️ **morgen** |
 | **Via** | Circle8 **VNR-86088** |
 
 ### Kern
@@ -662,7 +662,7 @@ Zie **1.20** — deadline **02-11 10:00 verstreken**.
 | **Duur** | 12 maanden + optie |
 | **Tarief** | Schaal 13 |
 | **ZZP** | Onbekend |
-| **Deadline** | **12-11-2026, 16:00** — ⚠️ **nog 3 dagen** |
+| **Deadline** | **12-11-2026, 16:00** — ⚠️ **morgen** |
 | **Via** | Circle8 **VNR-86088** (tweede weergave in index) |
 
 ### Kern
@@ -686,7 +686,7 @@ Zie **1.20** — deadline **02-11 10:00 verstreken**.
 | **Duur** | 3 maanden + optie |
 | **Tarief** | Schaal 11 |
 | **ZZP** | Onbekend |
-| **Deadline** | **13-11-2026, 16:00** — ⚠️ **nog 4 dagen** |
+| **Deadline** | **13-11-2026, 16:00** — ⚠️ **nog 2 dagen** |
 | **Via** | Circle8 **VNR-86199** |
 
 ### Kern
@@ -733,7 +733,7 @@ Zie **1.20** — deadline **02-11 10:00 verstreken**.
 | **Duur** | 3 maanden + optie |
 | **Tarief** | €95-100/uur |
 | **ZZP** | Onbekend |
-| **Deadline** | **16-11-2026, 10:00** — ⚠️ **nog 7 dagen** |
+| **Deadline** | **16-11-2026, 10:00** — ⚠️ **nog 5 dagen** |
 | **Via** | Need Staffing (Opdrachten overzicht) |
 
 ### Kern
@@ -754,7 +754,7 @@ Zie **1.20** — deadline **02-11 10:00 verstreken**.
 | **Duur** | 13 maanden + optie |
 | **Tarief** | €85-90/uur |
 | **ZZP** | Onbekend |
-| **Deadline** | **12-11-2026, 16:00** — ⚠️ **nog 3 dagen** |
+| **Deadline** | **12-11-2026, 16:00** — ⚠️ **morgen** |
 | **Via** | Need Staffing (Opdrachten overzicht) |
 
 ### Kern
@@ -843,7 +843,7 @@ Zie **1.20** — deadline **02-11 10:00 verstreken**.
 | **Duur** | Niet gepubliceerd |
 | **Tarief** | Niet gepubliceerd |
 | **ZZP** | Onbekend |
-| **Deadline** | **10-11-2026, 16:00** — ⚠️ **morgen** |
+| **Deadline** | **10-11-2026, 16:00** — ⚠️ **verstreken** |
 | **Via** | Vertage **395532** |
 
 ### Kern
