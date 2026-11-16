@@ -23,7 +23,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 
 ## 1. KWALITEIT & TEST ROLLEN (INCL. TEST LEAD)
 
-*Gezocht op 16-11-2026 op alle 5 portalen: "test-lead", "test lead", "lead test engineer", "testmanager", "testconsultant", "testcoördinator", "testcoordinator", "kwaliteitscoach", "quality coach", "quality lead", "quality manager", "requirements engineer", "implementatie specialist", "product owner", "scrum master". **Scan 16-11 (alle portalen live gecheckt, Harvey Nash via playwright, Circle8 via Exa-index, Need Staffing via webfetch, Hero.eu via webfetch, Vertage via Auth0+API):** **nieuw (9)** → **1.26** Testcoördinator IAM-Project (Vertage 396032, Den Haag, deadline 18-11), **2.42** Product Owner (Circle8 VNR-86272, Utrecht, deadline 14-11), **2.43** Product Owner II (Circle8 VNR-86215, Amsterdam, deadline 12-11), **3.44** Scrummaster 2026-GV-0548 (Need 15938, Apeldoorn, deadline 19-11), **3.45** Senior Scrum master (Vertage 396104, Den Helder, deadline 18-11), **3.46** Scrum Master (Product Owner Support) Data (Vertage 395996, Den Haag, deadline 19-11), **3.47** Scrummaster (Vertage 395998, VWS, Den Haag, deadline 18-11), **3.48** SR Scrum Master (Vertage 395974, RIVM, Bilthoven, deadline 18-11), **3.49** Senior Scrum Master (Harvey Nash HN 299787, Enexis, Den Bosch, deadline 17-11). **Vervallen/verlopen (11)** → **1.19/1.24** Senior testmanager/release engineer (Circle8 VNR-86138, deadline 09-11 verstreken), **1.20/1.25** Testmanager/Test coördinator CIBG (Need 15829, deadline 02-11 verstreken), **2.38** PO Energiemeterwissel RDI (Circle8 VNR-86166, deadline 10-11 verstreken), **2.40** PO Identity Management SSC-ICT (Vertage 395303, deadline 10-11 verstreken), **3.30** Team coach/scrum master BZK2 (Vertage 395173, deadline 11-11 verstreken), **3.34** Scrum master IVO Rechtspraak (Circle8 VNR-86121, deadline 06-11 verstreken), **3.40** Mendix Senior Scrum Master Rotterdam (Vertage 395532, deadline 10-11 verstreken), **3.43** Scrummaster Belastingdienst (Vertage 395446, deadline 11-11 verstreken), **Requirements Engineer DUO** (Need 15507, deadline 02-09 verstreken), **Implementatie adviseur UvA** (Need 15281, deadline 12-08 verstreken). **Live na deze scan (6 test/kwaliteit + 4 PO + 17 SM = 27):** 1.12, 1.15, 1.21, 1.22, 1.23, 1.26, 2.39, 2.41, 2.42, 2.43, 3.27, 3.31, 3.32, 3.33, 3.35, 3.36, 3.37, 3.38, 3.39, 3.41, 3.42, 3.44, 3.45, 3.46, 3.47, 3.48, 3.49.*
+*Gezocht op 16-11-2026 op alle 5 portalen: "test-lead", "test lead", "lead test engineer", "testmanager", "testconsultant", "testcoördinator", "testcoordinator", "kwaliteitscoach", "quality coach", "quality lead", "quality manager", "requirements engineer", "implementatie specialist", "product owner", "scrum master". **Scan 16-11 (alle portalen live gecheckt, Harvey Nash via playwright, Circle8 via Exa-index, Need Staffing via webfetch, Hero.eu via webfetch, Vertage via Auth0+API):** **nieuw (8)** → **1.27** Testcoördinator IAM (Circle8 VNR-86396, Den Haag), **2.44** Product Owner (Hero, RvIHH Digidoc Online, Den Haag), **2.45** Implementatiespecialist ProjectWise (Hero, Den Haag), **3.50** Scrum Master (Hero, Defensie, Den Helder), **3.51** Senior Scrum Master - 16823 (Harvey Nash HN 299787, Enexis, Den Bosch, deadline 17-11), **3.52** Scrum Master (PO Support) Data (Need 15948, Belastingdienst, Den Haag, deadline 20-11), **3.53** Sr. Scrum master (Need 15953, Defensie, Den Helder, deadline 18-11). **Vervallen/verlopen (11)** → **1.19/1.24** Senior testmanager/release engineer (Circle8 VNR-86138, deadline 09-11 verstreken), **1.20/1.25** Testmanager/Test coördinator CIBG (Need 15829, deadline 02-11 verstreken), **2.38** PO Energiemeterwissel RDI (Circle8 VNR-86166, deadline 10-11 verstreken), **2.40** PO Identity Management SSC-ICT (Vertage 395303, deadline 10-11 verstreken), **3.30** Team coach/scrum master BZK2 (Vertage 395173, deadline 11-11 verstreken), **3.34** Scrum master IVO Rechtspraak (Circle8 VNR-86121, deadline 06-11 verstreken), **3.40** Mendix Senior Scrum Master Rotterdam (Vertage 395532, deadline 10-11 verstreken), **3.43** Scrummaster Belastingdienst (Vertage 395446, deadline 11-11 verstreken), **Requirements Engineer DUO** (Need 15507, deadline 02-09 verstreken), **Implementatie adviseur UvA** (Need 15281, deadline 12-08 verstreken), **8 overige Vertage-rollen** (394539, 394729, 394054, 394572, 394666, 394547, 394784, 394624 API 403). **Live na deze scan (7 test/kwaliteit + 4 PO + 19 SM = 30):** 1.12, 1.15, 1.21, 1.22, 1.23, 1.26, 1.27, 2.39, 2.41, 2.44, 2.45, 3.27, 3.31, 3.32, 3.33, 3.35, 3.36, 3.37, 3.38, 3.39, 3.41, 3.42, 3.44, 3.45, 3.46, 3.47, 3.48, 3.49, 3.50, 3.51, 3.52, 3.53.
 
 **Scope (sinds 24-09-2026): technical testlead, quality/kwaliteitscoach, product owner én scrum master zoeken. Testanalist-, test engineer- en Java tester-rollen zijn uit de lijst verwijderd.**
 
@@ -292,6 +292,28 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 
 ---
 
+## 1.27 Testcoördinator IAM (Circle8) 🆕
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Centraal Orgaan opvang asielzoekers (COA) |
+| **Locatie** | Den Haag |
+| **Uren** | 36 uur per week |
+| **Start** | N.v.t. |
+| **Duur** | N.v.t. |
+| **Tarief** | N.v.t. |
+| **ZZP** | Onbekend |
+| **Deadline** | Niet gepubliceerd (via Exa-index) |
+| **Via** | Circle8 **VNR-86396** |
+
+### Kern
+- **Testcoördinator IAM** bij het COA: opzetten, coördineren en uitvoeren van testtrajecten voor SCIM-implementatie (Identity & Access Management)
+- Focus op API-, integratie- en ketentesten, CRUD-operaties tussen identity provider en aangesloten applicaties
+- HBO/WO, aantoonbare ervaring als testcoördinator/test engineer in complexe IAM-projecten, kennis SCIM/REST/JSON
+- Contact: https://www.circle8.nl/opdracht/test-coordinator-iam_VNR-86396
+
+---
+
 # 2. PRODUCT OWNER ROLLEN
 
 ---
@@ -547,6 +569,49 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 - PSPO 1 Certificaat gewenst, min. 5 jaar PO-ervaring in complexe politiek-bestuurlijke omgeving
 - **Deadline 12-11 16:00** — **sluit vandaag**
 - Contact: https://www.circle8.nl/opdracht/product-owner-ii_VNR-86215
+
+---
+
+## 2.44 Product Owner (Hero) 🆕
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Rijksorganisatie voor Informatiehuishouding (RvIHH) |
+| **Locatie** | Den Haag, hybride in overleg |
+| **Uren** | 36 uur per week |
+| **Start** | N.v.t. |
+| **Duur** | N.v.t. |
+| **Tarief** | N.v.t. |
+| **ZZP** | Onbekend |
+| **Deadline** | Geen (niet gepubliceerd) |
+| **Via** | Hero `product-owner-8deee0ea` |
+
+### Kern
+- **Product Owner** voor de doorontwikkeling van Digidoc Online, een documentmanagementoplossing bij meerdere rijksoverheidsorganisaties
+- Maximaliseert klantwaarde samen met afnemers, stuurgroep en Scrum-teams van SSC-ICT
+- Recruiter: Liam Gibb — 06 1524 9208
+- Contact: https://hero.eu/interim-opdrachten/product-owner-8deee0ea
+
+---
+
+## 2.45 Implementatiespecialist ProjectWise (Hero) 🆕
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Onbekend (via Hero) |
+| **Locatie** | Den Haag, hybride in overleg |
+| **Uren** | 20 uur per week |
+| **Start** | N.v.t. |
+| **Duur** | N.v.t. |
+| **Tarief** | N.v.t. |
+| **ZZP** | Onbekend |
+| **Deadline** | Geen (niet gepubliceerd) |
+| **Via** | Hero `implementatiespecialist-projectwise-5ac64ae4` |
+
+### Kern
+- **Implementatiespecialist ProjectWise** — EERSTE IMPLEMENTATIE SPECIALIST-ROL IN DEZE SCAN
+- 20u, Den Haag, hybride in overleg
+- Contact: https://hero.eu/interim-opdrachten/implementatiespecialist-projectwise-5ac64ae4
 
 ---
 
@@ -1016,6 +1081,72 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 
 ---
 
+## 3.50 Scrum Master (Hero) 🆕
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Ministerie van Defensie (JIVC, Generieke IT & Infrastructuur) |
+| **Locatie** | Den Helder, hybride (50/50) |
+| **Uren** | 36 uur per week |
+| **Start** | N.v.t. |
+| **Duur** | N.v.t. |
+| **Tarief** | N.v.t. |
+| **ZZP** | Onbekend |
+| **Deadline** | Geen (niet gepubliceerd) |
+| **Via** | Hero `scrum-master-0b03bef7` |
+
+### Kern
+- **Scrum Master** voor multidisciplinaire IT-teams bij JIVC die werken aan kritieke overheidsinfrastructuren en security-oplossingen voor de krijgsmacht
+- Stuwende kracht achter teams in een sterk groeiende afdeling
+- Recruiter: Mitchel Veldt — 06 1108 3646
+- Contact: https://hero.eu/interim-opdrachten/scrum-master-0b03bef7
+
+---
+
+## 3.52 Scrum Master (Product Owner Support) Data (Need Staffing) 🆕
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Belastingdienst |
+| **Locatie** | Den Haag |
+| **Uren** | 36 uur per week |
+| **Start** | 01-01-2027 |
+| **Duur** | 12 maanden |
+| **Tarief** | €87,00 |
+| **ZZP** | Onbekend |
+| **Deadline** | **20-11-2026, 13:00** — ⚠️ **nog 4 dagen** |
+| **Via** | Need Staffing **15948** (ref `2026-BZB-0547`) |
+
+### Kern
+- **Scrum Master (Product Owner Support) Data**: vertalen requirements naar user stories, ondersteunen PO bij backlogmanagement, organiseren Scrum ceremonies
+- WO-master vereist, politiek-bestuurlijke sensitiviteit, PSM/PSPO certificering, CV max 5 pagina's
+- Hybride, fysieke aanwezigheid wo/do in Apeldoorn-kantoor
+- Contact: https://needstaffing.nl/Opdrachten/15948
+
+---
+
+## 3.53 Sr. Scrum master (Need Staffing) 🆕
+
+| Item | Details |
+|------|---------|
+| **Organisatie** | Ministerie van Defensie |
+| **Locatie** | Den Helder, hybride (2 dagen thuiswerken) |
+| **Uren** | 36 uur per week |
+| **Start** | 01-03-2027 |
+| **Duur** | 12 maanden + optie verlenging |
+| **Tarief** | €80-95 per uur |
+| **ZZP** | Onbekend |
+| **Deadline** | **18-11-2026, 16:00** — ⚠️ **nog 2 dagen** |
+| **Via** | Need Staffing **15953** |
+
+### Kern
+- **Senior Scrum Master** voor multidisciplinaire IT-teams in complexe overheidsorganisatie
+- Min. 5-8 jaar SM-ervaring in (semi)overheid/rijksoverheid, PSM II/CSM vereist, Lean Six Sigma pré
+- Kennis Azure Boards/JIRA, BIO/AVG/Security by Design, IAM/PAM pré
+- Contact: https://needstaffing.nl/Opdrachten/15953
+
+---
+
 # 4. AGILE/COMBINATION ROLLEN
 
 ---
@@ -1114,10 +1245,11 @@ Steven's eigen huidige positionering — de brug tussen de testrol (1.11–1.14)
 # 5. URGENTIE & DEADLINES
 
 *Stand 16-11-2026 (09:00 UTC). Alleen nog live rollen; gesloten/vervallen rollen staan in sectie 8.
-Sorteer op deadline — **vandaag sluiten 4 rollen (18-11)**, **morgen 2 rollen (17-11, 19-11)**, **12-11 4 rollen**, **13-11 2 rollen**, **14-11 1 rol**, **16-11 1 rol**, **19-11 2 rollen**, en rollen zonder deadline.*
+Sorteer op deadline — **vandaag sluiten 5 rollen (18-11)**, **morgen 1 rol (17-11)**, **12-11 4 rollen (verstreken)**, **13-11 2 rollen (verstreken)**, **14-11 1 rol (verstreken)**, **16-11 1 rol**, **18-11 1 rol**, **19-11 2 rollen**, **20-11 1 rol**, en rollen zonder deadline.*
 
 | Functie | Organisatie | Portal | Deadline | Kans | Notitie |
 |---------|-------------|--------|----------|------|---------|
+| **3.53 Sr. Scrum master** 🆕 | Ministerie van Defensie | Need Staffing (15953) | **18-11, 16:00** 🔴 **VANDAAG** | 🟡 med | €80-95; Den Helder hybride; PSM II vereist |
 | **1.26 Testcoördinator IAM-Project** 🆕 | COA-ICT | Vertage (396032) | **18-11, 15:00** 🔴 **VANDAAG** | 🟢 hoog | 🟢 ZZP + doorleen; 36u; Den Haag hybride |
 | **3.45 Senior Scrum master Defensie** 🆕 | Ministerie van Defensie | Vertage (396104) | **18-11, 09:00** 🔴 **VANDAAG** | 🟢 hoog | 🟢 ZZP + doorleen; 36u; Den Helder hybride |
 | **3.47 Scrummaster VWS** 🆕 | Ministerie van VWS | Vertage (395998) | **18-11, 14:35** 🔴 **VANDAAG** | 🟢 hoog | 🟢 ZZP + doorleen; 36u; Den Haag hybride |
@@ -1134,20 +1266,25 @@ Sorteer op deadline — **vandaag sluiten 4 rollen (18-11)**, **morgen 2 rollen 
 | **3.35 Scrummaster NZA** | NZA | Need Staffing (15895) | **16-11, 10:00** ⚠️ **nog 1 dag** | 🟡 med | €95-100; Utrecht hybride; 3m + optie |
 | **3.44 Scrummaster Belastingdienst GV-0548** 🆕 | Belastingdienst | Need Staffing (15938) | **19-11, 16:00** ⚠️ **nog 3 dagen** | 🟡 med | €90-95; Apeldoorn; 12m + optie |
 | **3.46 Scrum Master PO Support Data** 🆕 | Belastingdienst ICT | Vertage (395996) | **19-11, 20:00** ⚠️ **nog 3 dagen** | 🟢 hoog | 🟢 ZZP + doorleen; 36u; Den Haag hybride |
+| **3.52 Scrum Master (PO Support) Data** 🆕 | Belastingdienst | Need Staffing (15948) | **20-11, 13:00** ⚠️ **nog 4 dagen** | 🟡 med | €87; Den Haag; WO-master, PSM/PSPO |
 | **2.39 PO Harmonisation Agile Way of Working** | RVO | Hero (`product-owner-harmonisering-agile-werkwijze-8b761f52`) | geen deadline (extend only) | 🟡 med | 18u; Den Haag hybride; alleen voor extend kandidaat |
 | **2.41 PO RvIHH Digidoc Online** | RvIHH | Hero (`product-owner-8deee0ea`) | geen deadline gepubliceerd | 🟢 hoog | 36u; Den Haag hybride; recruiter Liam Gibb 06 1524 9208 |
+| **2.44 Product Owner** 🆕 | RvIHH | Hero (`product-owner-8deee0ea`) | geen deadline gepubliceerd | 🟢 hoog | 36u; Den Haag hybride; recruiter Liam Gibb 06 1524 9208 |
+| **2.45 Implementatiespecialist ProjectWise** 🆕 | — | Hero (`implementatiespecialist-projectwise-5ac64ae4`) | geen deadline | 🟡 med | 20u; Den Haag hybride; EERSTE IS-ROL |
 | **1.12 Test Manager DAF** | DAF | Hero.eu (`test-manager-65bede40`) | geen deadline | 🟢 hoog | Deta-vast; Eindhoven; 36-40u; op locatie; recruiter Yoeri Cuperus |
 | **1.15 Testmanager Rijksvastgoedbedrijf** | Rijksvastgoedbedrijf | Hero.eu + Circle8 (VNR-85951 deadline verstreken) | **28-10** (Circle8) ⚠️ **verstreken**; Hero: geen deadline | 🟡 med | 36u; Den Haag; hybride; Circle8 12 mnd, start 01-11-2026 |
 | **1.21 Interim Test Coordinator Data Platform** | Hero (anoniem) | Hero (`interim-testcoordinator-dataplatform-67d45ed8`) | geen deadline | 🟡 med | 24u; Den Haag hybride 50/50 |
 | **1.22 Agile Coach RVO** | RVO | Hero (`agile-coach`) | geen deadline | 🟡 med | 36u; Assen; 12m; SAFe SPC 6.0 vereist |
 | **1.23 Test Manager SSAM** | Hero (SSAM project) | Hero (`test-manager-65bede40` Engelse versie) | geen deadline | 🟢 hoog | 40u; Zwolle hybride 50/50 |
+| **1.27 Testcoördinator IAM** 🆕 | COA | Circle8 (VNR-86396) | geen deadline | 🟡 med | 36u; Den Haag; HBO/WO, IAM/SCIM |
 | **3.27 Agile Transformatie Consultant / Scrum Master** | Velserbroek | Hero (`agile-transformatie-consultant-scrum-master-46ec7f8c`) | geen deadline | 🟡 med | 24u; hybride; combinatierol transformatie + SM |
 | **3.37 Scrum Master/ Agile Coach COC2** | Defensie | Hero | geen deadline | 🟡 med | 38u; Soesterberg; 12m; screening-afhankelijk |
 | **3.38 Senior Scrum Master O&P Rijk** | O&P Rijk | Hero (`senior-scrum-master-486ad6f5`) | geen deadline | 🟢 hoog | 24u; Den Haag hybride |
 | **3.39 Scrum Master NCG Groningen** | NCG/IMG | Hero (`scrum-master-20-6-2025`) | geen deadline | 🟡 med | 36u; Groningen hybride 2-3 dagen kantoor; start 07-07-2025 |
+| **3.50 Scrum Master** 🆕 | Defensie | Hero (`scrum-master-0b03bef7`) | geen deadline | 🟡 med | 36u; Den Helder hybride 50/50 |
 
-*Van de **27 levende rollen** sluit er **4 vandaag (18-11)**, **2 morgen (17-11, 19-11)**, **4 op 12-11 (verstreken)**, **2 op 13-11 (verstreken)**, **1 op 14-11 (verstreken)**, **1 op 16-11**, **2 op 19-11**, en de overige zijn zonder deadline.
-De **testlaag** is **1.12, 1.15, 1.21, 1.22, 1.23, 1.26**; **PO-laag** **2.39, 2.41, 2.42, 2.43**; **SM-laag** **3.27, 3.31, 3.32, 3.33, 3.35, 3.36, 3.37, 3.38, 3.39, 3.41, 3.42, 3.44, 3.45, 3.46, 3.47, 3.48, 3.49**.
+*Van de **30 levende rollen** sluit er **5 vandaag (18-11)**, **1 morgen (17-11)**, **4 op 12-11 (verstreken)**, **2 op 13-11 (verstreken)**, **1 op 14-11 (verstreken)**, **1 op 16-11**, **1 op 18-11**, **2 op 19-11**, **1 op 20-11**, en de overige zijn zonder deadline.
+De **testlaag** is **1.12, 1.15, 1.21, 1.22, 1.23, 1.26, 1.27**; **PO-laag** **2.39, 2.41, 2.44, 2.45**; **SM-laag** **3.27, 3.31, 3.32, 3.33, 3.35, 3.36, 3.37, 3.38, 3.39, 3.41, 3.42, 3.44, 3.45, 3.46, 3.47, 3.48, 3.49, 3.50, 3.51, 3.52, 3.53**.
 **ZZP-kansen:** **3.45, 3.46, 3.47, 3.48** (alle 🟢 `FREELANCERS_EMPLOYEES`, doorleen), **1.26** (🟢 `FREELANCERS_EMPLOYEES`); nieuwe rollen ZZP-status meestal onbekend.*
 
 ### Overzicht wijzigingen t.o.v. 04-11-2026 (scan 04-11)
@@ -1307,6 +1444,7 @@ De **testlaag** is **1.12, 1.15, 1.21, 1.22, 1.23, 1.26**; **PO-laag** **2.39, 2
 | **3.45 Senior Scrum master Defensie** 🆕 | live — sluit **18-11 09:00** (vandaag) | https://partner.vertage.com/inbox/all/396104 |
 | **3.47 Scrummaster VWS** 🆕 | live — sluit **18-11 14:35** (vandaag) | https://partner.vertage.com/inbox/all/395998 |
 | **3.48 SR Scrum Master RIVM** 🆕 | live — sluit **18-11 11:00** (vandaag) | https://partner.vertage.com/inbox/all/395974 |
+| **3.53 Sr. Scrum master** 🆕 | live — sluit **18-11 16:00** (vandaag) | https://needstaffing.nl/Opdrachten/15953 |
 | **3.49 Senior Scrum Master Enexis** 🆕 | live — sluit **17-11 16:00** (morgen) | https://www.harveynash.nl/vacatures/299787-Senior-Scrum-Master---16823 |
 | **2.43 Product Owner II Amsterdam** 🆕 | live — sluit **12-11 16:00** (verstreken) | https://www.circle8.nl/opdracht/product-owner-ii_VNR-86215 |
 | **3.31 Senior Scrum Master NCG Groningen** | live — sluit **12-11 16:00** (verstreken) | https://www.circle8.nl/opdracht/team-coach%2Fscrum-master_VNR-86088 |
@@ -1319,17 +1457,22 @@ De **testlaag** is **1.12, 1.15, 1.21, 1.22, 1.23, 1.26**; **PO-laag** **2.39, 2
 | **3.35 Scrummaster NZA** | live — sluit **16-11 10:00** (nog 1 dag) | https://needstaffing.nl/Opdrachten (zoek "Scrummaster NZA") |
 | **3.44 Scrummaster Belastingdienst GV-0548** 🆕 | live — sluit **19-11 16:00** (nog 3 dagen) | https://needstaffing.nl/Opdrachten/15938 |
 | **3.46 Scrum Master PO Support Data** 🆕 | live — sluit **19-11 20:00** (nog 3 dagen) | https://partner.vertage.com/inbox/all/395996 |
+| **3.52 Scrum Master (PO Support) Data** 🆕 | live — sluit **20-11 13:00** (nog 4 dagen) | https://needstaffing.nl/Opdrachten/15948 |
 | **2.39 PO Harmonisation Agile Way of Working** | live — geen deadline (extend only) | https://hero.eu/en/interim-opdrachten/product-owner-harmonisering-agile-werkwijze-8b761f52 |
 | **2.41 PO RvIHH Digidoc Online** | live — geen deadline | https://hero.eu/en/interim-opdrachten/product-owner-8deee0ea |
+| **2.44 Product Owner** 🆕 | live — geen deadline | https://hero.eu/en/interim-opdrachten/product-owner-8deee0ea |
+| **2.45 Implementatiespecialist ProjectWise** 🆕 | live — geen deadline | https://hero.eu/interim-opdrachten/implementatiespecialist-projectwise-5ac64ae4 |
 | **1.12 Test Manager DAF** | live — geen deadline | https://hero.eu/interim-opdrachten/test-manager-65bede40 |
 | **1.15 Testmanager Rijksvastgoedbedrijf** | live — Circle8 deadline **28-10** verstreken; Hero: geen deadline | https://hero.eu/interim-opdracht/testmanager-4b5b7bfd |
 | **1.21 Interim Test Coordinator Data Platform** | live — geen deadline | https://hero.eu/en/interim-opdrachten/interim-testcoordinator-dataplatform-67d45ed8 |
 | **1.22 Agile Coach RVO** | live — geen deadline | https://interimprofessionals.hero.eu/aanvraag/agile-coach/ |
 | **1.23 Test Manager SSAM** | live — geen deadline | https://hero.eu/en/interim-opdrachten/test-manager-65bede40 |
+| **1.27 Testcoördinator IAM** 🆕 | live — geen deadline | https://www.circle8.nl/opdracht/test-coordinator-iam_VNR-86396 |
 | **3.27 Agile Transformatie Consultant / Scrum Master** | live — geen deadline | https://hero.eu/interim-opdrachten/agile-transformatie-consultant-scrum-master-46ec7f8c |
 | **3.37 Scrum Master/ Agile Coach COC2** | live — geen deadline (screening) | https://interimprofessionals.hero.eu/aanvraag/scrum-master-agile-coach-4-6-2025/ |
 | **3.38 Senior Scrum Master O&P Rijk** | live — geen deadline | https://hero.eu/en/interim-opdrachten/senior-scrum-master-486ad6f5 |
 | **3.39 Scrum Master NCG Groningen** | live — geen deadline | https://interimprofessionals.hero.eu/aanvraag/scrum-master-20-6-2025/ |
+| **3.50 Scrum Master** 🆕 | live — geen deadline | https://hero.eu/interim-opdrachten/scrum-master-0b03bef7 |
 | **3.40 Mendix Senior Scrum Master Rotterdam** | ❌ vervallen **10-11** (Vertage 395532 HTTP 403; deadline 10-11 16:00) | ~~https://partner.vertage.com/inbox/all/395532~~ |
 | **2.38 PO Energiemeterwissel RDI** | ❌ vervallen **10-11** (Circle8 VNR-86166 deadline 10-11 16:00; Hero-kanaal verdwenen) | https://www.circle8.nl/opdracht/product-owner_VNR-86166 |
 | **2.40 PO Identity Management SSC-ICT** | ❌ vervallen **10-11** (Vertage 395303 verdwenen uit API; deadline 10-11 06:47) | ~~https://partner.vertage.com/inbox/all/395303~~ |
