@@ -759,7 +759,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | 3 maanden + optie |
 | **Tarief** | €95-100/uur |
 | **ZZP** | Onbekend |
-| **Deadline** | **16-11-2026, 10:00** — ⚠️ **vandaag** |
+| **Deadline** | **16-11-2026, 10:00** — ⚠️ **verstreken** |
 | **Via** | Need Staffing (Opdrachten overzicht) |
 
 ### Kern
