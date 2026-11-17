@@ -66,7 +66,7 @@ title: Kwaliteitscoach, Product Owner & Scrum Master — Detacheringsoverzicht
 | **Duur** | N.v.t. (niet gepubliceerd) |
 | **Tarief** | N.v.t. (niet gepubliceerd) |
 | **ZZP** | Onbekend (niet gepubliceerd; details achter Hero-login) |
-| **Deadline** | **28-10-2026** (Circle8 VNR-85951) — ⚠️ **verstreken**; Hero.eu: geen deadline |
+| **Deadline** | Geen (niet gepubliceerd) |
 | **Via** | Hero.eu (slug `testmanager-4b5b7bfd`) + Circle8 (**VNR-85951**, 12 mnd, start 01-11-2026) — **twee kanalen** |
 
 ### Kern
